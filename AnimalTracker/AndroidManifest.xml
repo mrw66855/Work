@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.davenport.animaltracker"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="10" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="edu.davenport.animaltracker.AnimalTracker"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="edu.davenport.animaltracker.ViewAT"
+            android:label="@string/title_activity_view_at" >
+        </activity>
+        <activity
+            android:name="edu.davenport.animaltracker.UpdateAT"
+            android:label="@string/title_activity_update_at" >
+        </activity>
+        <activity
+            android:name="edu.davenport.animaltracker.AddAT"
+            android:label="@string/title_activity_add_at" >
+        </activity>
+    </application>
+
+</manifest>

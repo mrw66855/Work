@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">AnimalTracker</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_update">Update</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_purge">Purge</string>
+    <string name="menu_restore">Restore</string>
+    <string name="menu_active">View Active</string>
+    <string name="menu_deleted">View Deleted</string>
+    <string name="menu_all"> View All</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_view_at">ViewAT</string>
+    <string name="ViewAT_lblAnimalNumber">Animal Number:</string>
+    <string name="ViewAT_lblAmount">Amount:</string>
+    <string name="ViewAT_lblDateTime">Day and Time:</string>
+    <string name="ViewAT_lblComments">Comments:</string>
+    <string name="ViewAT_lblLatitude">Latitude:</string>
+     <string name="ViewAT_lbllongitude">Longitude:</string>
+    <string name="ViewAT_lblStatus">Status:</string>
+    <string name="UpdateAT_lblAnimalNumber">Animal Number:</string>
+    <string name="UpdateAT_lblAmount">Amount:</string>
+    <string name="UpdateAT_lblDateTime">Day and Time:</string>
+    <string name="UpdateAT_lblComments">Comments:</string>
+    <string name="UpdateAT_lblLatitude">Latitude:</string>
+    <string name="UpdateAT_lbllongitude">Longitude:</string>
+    <string name="UpdateAT_lblStatus">Status:</string>
+    <string name="AddAT_lblAnimalNumber">Animal Number:</string>
+    <string name="AddAT_lblAmount">Amount:</string>
+    <string name="AddAT_lblDateTime">Day and Time:</string>
+    <string name="AddAT_lblComments">Comments:</string>
+    <string name="AddAT_lblLatitude">Latitude:</string>
+    <string name="AddAT_lbllongitude">Longitude:</string>
+    <string name="title_activity_update_at">UpdateAT</string>
+    <string name="title_activity_add_at">AddAT</string>
+    <string name="action_settings">Settings</string>
+    <string name="UpdateAT_btnSave">Save</string>
+    <string name="AddAT_btnAdd">Add</string>
+    <string name="errorTitle">Update/Add Error</string>
+    <string name="errorMessage">Animal Number, Amount, and Date and Time are required.</string>
+    <string name="errorButton">OK</string>
+    <string name="deleteConfirmTitle">Delete Confirmation</string>
+    <string name="deleteConfirmMessage">Delete the current record?</string>
+    <string name="deleteConfirmButton">OK</string>
+    <string name="deleteCancelButton">Cancel</string>
+    <string name="purgeConfirmTitle">Purge Confirmation</string>
+    <string name="purgeConfirmMessage">Purge the current record? This will permanently remove it from the application.</string>
+    <string name="purgeConfirmButton">OK</string>
+    <string name="purgeCancelButton">Cancel</string>
+    <string name="restoreConfirmTitle">Restore Confirmation</string>
+    <string name="restoreConfirmMessage">Restore the current record?</string>
+    <string name="restoreConfirmButton">OK</string>
+    <string name="restoreCancelButton">Cancel</string>
+    <string name="deleteerrorTitle">Deletion Error</string>
+    <string name="deleteerrorMessage">Record is already inactive.</string>
+    <string name="deleteerrorButton">OK</string>
+    <string name="restoreerrorTitle">Restoring Error</string>
+    <string name="restoreerrorMessage"> Record Is already active.</string>
+    <string name="restoreerrorButton">OK</string>
+    <string name="purgeerrorTitle">Purge Error</string>
+    <string name="purgeerrorMessage"> Must first make the record inactive  by deleting it.</string>
+    <string name="purgeerrorButton">OK</string>
+    <string name="applicationerrorTitle">No Records Found</string>
+    <string name="applicationerrorMessage">There are no records found in the database. Please click menu and add records.</string>
+    <string name="applicationerrorButton">OK</string>
+    <string name="DateTimeerrorTitle">DateTime Error</string>
+    <string name="DateTimeerrorMessage">Please  put in following format.Date:MM/DD/YYYY. Time:H:M with AM or PM at the end. Remember a comma to separate date and time</string>
+    <string name="DateTimeerrorButton">OK</string>
+        <string name="Formatting">Remember a comma to separate date and time</string>
+    
+
+    
+</resources>

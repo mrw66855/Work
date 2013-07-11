@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_update"
+        android:orderInCategory="100"
+        android:title="@string/menu_update"/>
+
+    <item
+        android:id="@+id/menu_delete"
+        android:orderInCategory="100"
+        android:title="@string/menu_delete"/>
+        <item
+        android:id="@+id/menu_purge"
+        android:orderInCategory="100"
+        android:title="@string/menu_purge"/>
+
+    <item
+        android:id="@+id/menu_restore"
+        android:orderInCategory="100"
+        android:title="@string/menu_restore"/>
+    
+</menu>
