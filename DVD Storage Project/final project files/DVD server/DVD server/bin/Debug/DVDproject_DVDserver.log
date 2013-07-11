@@ -1,0 +1,1170 @@
+4/5/2012 9:53:35 AM	Start System Initialization
+4/5/2012 9:53:35 AM	Server Started.
+4/5/2012 9:53:35 AM	Awaiting connection on port 5000.
+4/5/2012 9:57:30 AM	Accepted a Connection from: 127.0.0.1:57764.
+4/5/2012 10:01:08 AM	Start System Initialization
+4/5/2012 10:01:08 AM	Server Started.
+4/5/2012 10:01:08 AM	Awaiting connection on port 5000.
+4/5/2012 10:01:39 AM	Start System Initialization
+4/5/2012 10:01:39 AM	Server Started.
+4/5/2012 10:01:39 AM	Awaiting connection on port 5000.
+4/5/2012 10:02:04 AM	Accepted a Connection from: 127.0.0.1:58036.
+4/5/2012 10:04:57 AM	Start System Initialization
+4/5/2012 10:04:57 AM	Server Started.
+4/5/2012 10:04:57 AM	Awaiting connection on port 5000.
+4/5/2012 10:05:33 AM	Accepted a Connection from: 127.0.0.1:58256.
+4/5/2012 10:11:00 AM	Start System Initialization
+4/5/2012 10:11:00 AM	Server Started.
+4/5/2012 10:11:00 AM	Awaiting connection on port 5000.
+4/5/2012 10:11:25 AM	Accepted a Connection from: 127.0.0.1:58605.
+4/5/2012 10:13:26 AM	Start System Initialization
+4/5/2012 10:13:26 AM	Server Started.
+4/5/2012 10:13:26 AM	Awaiting connection on port 5000.
+4/5/2012 10:13:59 AM	Accepted a Connection from: 127.0.0.1:58759.
+4/5/2012 10:15:23 AM	Start System Initialization
+4/5/2012 10:15:23 AM	Server Started.
+4/5/2012 10:15:23 AM	Awaiting connection on port 5000.
+4/5/2012 10:15:58 AM	Accepted a Connection from: 127.0.0.1:58879.
+4/5/2012 10:20:18 AM	Start System Initialization
+4/5/2012 10:20:18 AM	Server Started.
+4/5/2012 10:20:18 AM	Awaiting connection on port 5000.
+4/5/2012 10:20:46 AM	Accepted a Connection from: 127.0.0.1:59184.
+4/5/2012 10:21:35 AM	1:Client Session 1  Initialized from System.Object[].
+4/5/2012 10:21:50 AM	1: session: 1 request: System.Object[]
+4/5/2012 10:26:56 AM	Start System Initialization
+4/5/2012 10:26:56 AM	Server Started.
+4/5/2012 10:26:56 AM	Awaiting connection on port 5000.
+4/5/2012 10:27:30 AM	Accepted a Connection from: 127.0.0.1:59590.
+4/5/2012 10:27:33 AM	:Client Session 1  Initialized from 127.0.0.1:59590.
+4/5/2012 10:27:34 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>temp</Action><ID>13</ID></Request>
+4/5/2012 10:27:58 AM	Awaiting connection on port 5000.
+4/5/2012 10:28:00 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/5/2012 10:28:01 AM	:Record deleted!DVD ID13deleted
+4/5/2012 10:28:02 AM	: Response: 1
+4/5/2012 10:28:03 AM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 10:28:07 AM	: Response: 1
+4/5/2012 10:28:07 AM	:Session 1 disconnected.
+4/5/2012 10:54:06 AM	Start System Initialization
+4/5/2012 10:54:06 AM	Server Started.
+4/5/2012 10:54:06 AM	Awaiting connection on port 5000.
+4/5/2012 10:55:58 AM	Accepted a Connection from: 127.0.0.1:62068.
+4/5/2012 10:57:16 AM	:Client Session 1  Initialized from 127.0.0.1:62068.
+4/5/2012 10:57:33 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>recover</Action><ID>13</ID></Request>
+4/5/2012 10:57:52 AM	Awaiting connection on port 5000.
+4/5/2012 10:59:48 AM	Start System Initialization
+4/5/2012 10:59:48 AM	Server Started.
+4/5/2012 10:59:48 AM	Awaiting connection on port 5000.
+4/5/2012 11:00:22 AM	Accepted a Connection from: 127.0.0.1:62541.
+4/5/2012 11:00:41 AM	:Client Session 1  Initialized from 127.0.0.1:62541.
+4/5/2012 11:01:20 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>recover</Action><ID>13</ID></Request>
+4/5/2012 11:01:29 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/5/2012 11:01:29 AM	Awaiting connection on port 5000.
+4/5/2012 11:01:49 AM	:Record recovered!DVD ID13recovered
+4/5/2012 11:01:49 AM	: Response: 1
+4/5/2012 11:01:49 AM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 11:01:49 AM	: Response: 1
+4/5/2012 11:01:49 AM	:Session 1 disconnected.
+4/5/2012 11:23:43 AM	Start System Initialization
+4/5/2012 11:23:43 AM	Server Started.
+4/5/2012 11:23:43 AM	Awaiting connection on port 5000.
+4/5/2012 11:26:33 AM	Accepted a Connection from: 127.0.0.1:64753.
+4/5/2012 11:26:33 AM	:Client Session 1  Initialized from 127.0.0.1:64753.
+4/5/2012 11:26:33 AM	Awaiting connection on port 5000.
+4/5/2012 11:26:33 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>addall</Action><Title>s</Title><First>First</First><Last>Last</Last><First2>First2</First2><Last2>Last2</Last2><Company>Company</Company><Genre>0</Genre><Runtime>0</Runtime><Type>U</Type><Status>E</Status></Request>
+4/5/2012 11:26:33 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/5/2012 11:26:33 AM	:Record Added!  New ID: 18
+4/5/2012 11:26:33 AM	: Response: 1
+4/5/2012 11:26:33 AM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 11:26:33 AM	: Response: 1
+4/5/2012 11:26:33 AM	:Session 1 disconnected.
+4/5/2012 11:40:02 AM	Accepted a Connection from: 127.0.0.1:49731.
+4/5/2012 11:40:02 AM	:Client Session 2  Initialized from 127.0.0.1:49731.
+4/5/2012 11:40:02 AM	Awaiting connection on port 5000.
+4/5/2012 11:40:02 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>updatetitle</Action><ID>18</ID><Title>Title</Title></Request>
+4/5/2012 11:40:02 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/5/2012 11:40:03 AM	:Record updated!DVD ID18updated
+4/5/2012 11:40:03 AM	: Response: 2
+4/5/2012 11:40:03 AM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 11:40:03 AM	: Response: 2
+4/5/2012 11:40:03 AM	:Session 2 disconnected.
+4/5/2012 11:43:13 AM	Accepted a Connection from: 127.0.0.1:50030.
+4/5/2012 11:43:13 AM	:Client Session 3  Initialized from 127.0.0.1:50030.
+4/5/2012 11:43:13 AM	Awaiting connection on port 5000.
+4/5/2012 11:43:13 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>updatetitle</Action><ID>18</ID><Title>Title</Title></Request>
+4/5/2012 11:43:13 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/5/2012 11:43:13 AM	:Record updated!DVD ID18updated
+4/5/2012 11:43:13 AM	: Response: 3
+4/5/2012 11:43:13 AM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 11:43:13 AM	: Response: 3
+4/5/2012 11:43:13 AM	:Session 3 disconnected.
+4/5/2012 6:55:08 PM	Start System Initialization
+4/5/2012 6:55:08 PM	Server Started.
+4/5/2012 6:55:08 PM	Awaiting connection on port 5000.
+4/5/2012 6:55:31 PM	Accepted a Connection from: 127.0.0.1:57595.
+4/5/2012 6:55:31 PM	:Client Session 1  Initialized from 127.0.0.1:57595.
+4/5/2012 6:55:31 PM	Awaiting connection on port 5000.
+4/5/2012 6:55:46 PM	Accepted a Connection from: 127.0.0.1:57611.
+4/5/2012 6:55:46 PM	:Client Session 2  Initialized from 127.0.0.1:57611.
+4/5/2012 6:55:46 PM	Awaiting connection on port 5000.
+4/5/2012 6:56:47 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>addtitle</Action><Title>Pirates of the Caribbean</Title><Status>E</Status></Request>
+4/5/2012 6:56:47 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/5/2012 6:56:47 PM	:Record Added!  New ID: 19
+4/5/2012 6:56:47 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><ID>19</ID></Response>
+4/5/2012 6:56:47 PM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 6:56:47 PM	: Response: 
+4/5/2012 6:56:47 PM	:Session 2 disconnected.
+4/5/2012 6:57:54 PM	Accepted a Connection from: 127.0.0.1:57739.
+4/5/2012 6:57:54 PM	:Client Session 3  Initialized from 127.0.0.1:57739.
+4/5/2012 6:57:54 PM	Awaiting connection on port 5000.
+4/5/2012 10:06:09 PM	Start System Initialization
+4/5/2012 10:06:09 PM	Server Started.
+4/5/2012 10:06:09 PM	Awaiting connection on port 5000.
+4/5/2012 10:06:59 PM	Accepted a Connection from: 127.0.0.1:53143.
+4/5/2012 10:06:59 PM	:Client Session 1  Initialized from 127.0.0.1:53143.
+4/5/2012 10:06:59 PM	Awaiting connection on port 5000.
+4/5/2012 10:07:06 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchactor1</Action><Last>Beckinsale</Last></Request>
+4/5/2012 10:07:06 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/5/2012 10:07:06 PM	: last names found! 
+4/5/2012 10:07:06 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><First>Kate</First><Last>Beckinsale</Last><Title>Underworld</Title></DVD><DVD><First>Kate</First><Last>Beckinsale</Last><Title>Underworld 2:Evolution</Title></DVD><DVD><First>Kate</First><Last>Beckinsale</Last><Title>Underworld 4:Awakening</Title></DVD></DVDS></Response>
+4/5/2012 10:07:06 PM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 10:07:06 PM	: Response: 
+4/5/2012 10:07:06 PM	:Session 1 disconnected.
+4/5/2012 10:09:44 PM	Accepted a Connection from: 127.0.0.1:53310.
+4/5/2012 10:09:44 PM	:Client Session 2  Initialized from 127.0.0.1:53310.
+4/5/2012 10:09:44 PM	Awaiting connection on port 5000.
+4/5/2012 10:09:52 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchactor1</Action><Last>Beckinsale</Last></Request>
+4/5/2012 10:09:52 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/5/2012 10:09:52 PM	: last names found! 
+4/5/2012 10:09:52 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><First>Kate</First><Last>Beckinsale</Last><Title>Underworld</Title></DVD><DVD><First>Kate</First><Last>Beckinsale</Last><Title>Underworld 2:Evolution</Title></DVD><DVD><First>Kate</First><Last>Beckinsale</Last><Title>Underworld 4:Awakening</Title></DVD></DVDS></Response>
+4/5/2012 10:09:52 PM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 10:09:52 PM	: Response: 
+4/5/2012 10:09:52 PM	:Session 2 disconnected.
+4/5/2012 10:11:19 PM	Accepted a Connection from: 127.0.0.1:53407.
+4/5/2012 10:11:19 PM	:Client Session 3  Initialized from 127.0.0.1:53407.
+4/5/2012 10:11:19 PM	Awaiting connection on port 5000.
+4/5/2012 10:11:19 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchactor2</Action><Last2>speedman</Last2></Request>
+4/5/2012 10:11:19 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/5/2012 10:11:19 PM	: last names found! 
+4/5/2012 10:11:19 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><First2>Scott</First2><Last2>Speedman</Last2><Title>Underworld</Title></DVD><DVD><First2>Scott</First2><Last2>Speedman</Last2><Title>Underworld 2:Evolution</Title></DVD></DVDS></Response>
+4/5/2012 10:11:19 PM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 10:11:19 PM	: Response: 
+4/5/2012 10:11:19 PM	:Session 3 disconnected.
+4/5/2012 10:13:33 PM	Accepted a Connection from: 127.0.0.1:53543.
+4/5/2012 10:13:33 PM	:Client Session 4  Initialized from 127.0.0.1:53543.
+4/5/2012 10:13:33 PM	Awaiting connection on port 5000.
+4/5/2012 10:13:33 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchactor2</Action><Last2>speefdmnd</Last2></Request>
+4/5/2012 10:13:33 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/5/2012 10:13:33 PM	: last names found! 
+4/5/2012 10:13:33 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS /></Response>
+4/5/2012 10:13:33 PM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 10:13:33 PM	: Response: 
+4/5/2012 10:13:33 PM	:Session 4 disconnected.
+4/5/2012 10:14:17 PM	Accepted a Connection from: 127.0.0.1:53588.
+4/5/2012 10:14:17 PM	:Client Session 5  Initialized from 127.0.0.1:53588.
+4/5/2012 10:14:17 PM	Awaiting connection on port 5000.
+4/5/2012 10:14:37 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchactor2</Action><Last2>speefdmnd</Last2></Request><?xml version="1.0" encoding="utf-16"?><Request><Action>searchactor1</Action><Last>speed</Last></Request>
+4/5/2012 10:14:37 PM	:XML Parsing Error: Unexpected XML declaration. The XML declaration must be the first node in the document, and no white space characters are allowed to appear before it. Line 1, position 114.
+4/5/2012 10:14:37 PM	: Response: 
+4/5/2012 10:14:37 PM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 10:14:37 PM	: Response: 
+4/5/2012 10:14:37 PM	:Session 5 disconnected.
+4/5/2012 10:16:27 PM	Accepted a Connection from: 127.0.0.1:53720.
+4/5/2012 10:16:27 PM	:Client Session 6  Initialized from 127.0.0.1:53720.
+4/5/2012 10:16:27 PM	Awaiting connection on port 5000.
+4/5/2012 10:16:27 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchactor2</Action><Last2>speedman</Last2></Request>
+4/5/2012 10:16:27 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/5/2012 10:16:27 PM	: last names found! 
+4/5/2012 10:16:27 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><First2>Scott</First2><Last2>Speedman</Last2><Title>Underworld</Title></DVD><DVD><First2>Scott</First2><Last2>Speedman</Last2><Title>Underworld 2:Evolution</Title></DVD></DVDS></Response>
+4/5/2012 10:16:27 PM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 10:16:27 PM	: Response: 
+4/5/2012 10:16:27 PM	:Session 6 disconnected.
+4/5/2012 10:16:51 PM	Accepted a Connection from: 127.0.0.1:53745.
+4/5/2012 10:16:51 PM	:Client Session 7  Initialized from 127.0.0.1:53745.
+4/5/2012 10:16:51 PM	Awaiting connection on port 5000.
+4/5/2012 10:17:09 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchactor2</Action><Last2>speedman</Last2></Request><?xml version="1.0" encoding="utf-16"?><Request><Action>searchactor1</Action><Last>speedman</Last></Request>
+4/5/2012 10:17:09 PM	:XML Parsing Error: Unexpected XML declaration. The XML declaration must be the first node in the document, and no white space characters are allowed to appear before it. Line 1, position 113.
+4/5/2012 10:17:09 PM	: Response: 
+4/5/2012 10:17:09 PM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 10:17:09 PM	: Response: 
+4/5/2012 10:17:09 PM	:Session 7 disconnected.
+4/5/2012 10:18:00 PM	Accepted a Connection from: 127.0.0.1:53817.
+4/5/2012 10:18:00 PM	:Client Session 8  Initialized from 127.0.0.1:53817.
+4/5/2012 10:18:00 PM	Awaiting connection on port 5000.
+4/5/2012 10:18:00 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchcompany</Action><Company>screen</Company></Request>
+4/5/2012 10:18:00 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/5/2012 10:18:00 PM	: companies found! 
+4/5/2012 10:18:00 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Company>Screen Gems</Company><Title>Underworld</Title></DVD><DVD><Company>Screen Gems</Company><Title>Underworld 2:Evolution</Title></DVD><DVD><Company>Screen Gems</Company><Title>Underworld 3:Rise of the Lycans</Title></DVD><DVD><Company>Screen Gems</Company><Title>Underworld 4:Awakening</Title></DVD></DVDS></Response>
+4/5/2012 10:18:00 PM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 10:18:00 PM	: Response: 
+4/5/2012 10:18:00 PM	:Session 8 disconnected.
+4/5/2012 10:18:32 PM	Accepted a Connection from: 127.0.0.1:53850.
+4/5/2012 10:18:32 PM	:Client Session 9  Initialized from 127.0.0.1:53850.
+4/5/2012 10:18:32 PM	Awaiting connection on port 5000.
+4/5/2012 10:18:32 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchcompany</Action><Company> screen</Company></Request>
+4/5/2012 10:18:32 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/5/2012 10:18:32 PM	: companies found! 
+4/5/2012 10:18:32 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS /></Response>
+4/5/2012 10:18:32 PM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 10:18:32 PM	: Response: 
+4/5/2012 10:18:32 PM	:Session 9 disconnected.
+4/5/2012 10:19:01 PM	Accepted a Connection from: 127.0.0.1:53881.
+4/5/2012 10:19:01 PM	:Client Session 10  Initialized from 127.0.0.1:53881.
+4/5/2012 10:19:01 PM	Awaiting connection on port 5000.
+4/5/2012 10:19:01 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchcompany</Action><Company>screen</Company></Request>
+4/5/2012 10:19:01 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/5/2012 10:19:01 PM	: companies found! 
+4/5/2012 10:19:01 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Company>Screen Gems</Company><Title>Underworld</Title></DVD><DVD><Company>Screen Gems</Company><Title>Underworld 2:Evolution</Title></DVD><DVD><Company>Screen Gems</Company><Title>Underworld 3:Rise of the Lycans</Title></DVD><DVD><Company>Screen Gems</Company><Title>Underworld 4:Awakening</Title></DVD></DVDS></Response>
+4/5/2012 10:19:01 PM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 10:19:01 PM	: Response: 
+4/5/2012 10:19:01 PM	:Session 10 disconnected.
+4/5/2012 10:19:36 PM	Accepted a Connection from: 127.0.0.1:53917.
+4/5/2012 10:19:36 PM	:Client Session 11  Initialized from 127.0.0.1:53917.
+4/5/2012 10:19:36 PM	Awaiting connection on port 5000.
+4/5/2012 10:19:36 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchactor2</Action><Last2>speed</Last2></Request>
+4/5/2012 10:19:36 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/5/2012 10:19:36 PM	: last names found! 
+4/5/2012 10:19:36 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><First2>Scott</First2><Last2>Speedman</Last2><Title>Underworld</Title></DVD><DVD><First2>Scott</First2><Last2>Speedman</Last2><Title>Underworld 2:Evolution</Title></DVD></DVDS></Response>
+4/5/2012 10:19:36 PM	: request: <Request><Action>disconnect</Action></Request>
+4/5/2012 10:19:36 PM	: Response: 
+4/5/2012 10:19:36 PM	:Session 11 disconnected.
+4/6/2012 8:13:00 AM	Start System Initialization
+4/6/2012 8:13:00 AM	Server Started.
+4/6/2012 8:13:00 AM	Awaiting connection on port 5000.
+4/6/2012 8:13:44 AM	Accepted a Connection from: 127.0.0.1:51648.
+4/6/2012 8:13:44 AM	:Client Session 1  Initialized from 127.0.0.1:51648.
+4/6/2012 8:13:44 AM	Awaiting connection on port 5000.
+4/6/2012 8:13:44 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>getgenre</Action></Request>
+4/6/2012 8:13:44 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 8:13:45 AM	: genres found! 
+4/6/2012 8:13:45 AM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><Genres><Genre><ID>0</ID><Description>Unknown</Description></Genre><Genre><ID>1</ID><Description>Action</Description></Genre><Genre><ID>2</ID><Description>Adventure</Description></Genre><Genre><ID>3</ID><Description>Animation</Description></Genre><Genre><ID>4</ID><Description>Comedy</Description></Genre><Genre><ID>5</ID><Description>Comic Book</Description></Genre><Genre><ID>6</ID><Description>Crime</Description></Genre><Genre><ID>7</ID><Description>Dance</Description></Genre><Genre><ID>8</ID><Description>Disaster</Description></Genre><Genre><ID>9</ID><Description>Documentary</Description></Genre><Genre><ID>10</ID><Description>Drama</Description></Genre><Genre><ID>11</ID><Description>Epic</Description></Genre><Genre><ID>12</ID><Description>Fantasy</Description></Genre><Genre><ID>13</ID><Description>Game Show</Description></Genre><Genre><ID>14</ID><Description>Gangster</Description></Genre><Genre><ID>15</ID><Description>Historical</Description></Genre><Genre><ID>16</ID><Description>Horror</Description></Genre><Genre><ID>17</ID><Description>Musical</Description></Genre><Genre><ID>18</ID><Description>Mystery</Description></Genre><Genre><ID>19</ID><Description>Myth</Description></Genre><Genre><ID>20</ID><Description>News</Description></Genre><Genre><ID>21</ID><Description>Reality TV</Description></Genre><Genre><ID>22</ID><Description>Romance</Description></Genre><Genre><ID>23</ID><Description>Science Fiction</Description></Genre><Genre><ID>24</ID><Description>Sports</Description></Genre><Genre><ID>25</ID><Description>Suspense</Description></Genre><Genre><ID>26</ID><Description>Thriller</Description></Genre><Genre><ID>27</ID><Description>TV Show</Description></Genre><Genre><ID>28</ID><Description>War</Description></Genre><Genre><ID>29</ID><Description>Western</Description></Genre></Genres></Response>
+4/6/2012 8:13:45 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 8:13:45 AM	: Response: 
+4/6/2012 8:13:45 AM	:Session 1 disconnected.
+4/6/2012 8:15:06 AM	Accepted a Connection from: 127.0.0.1:51730.
+4/6/2012 8:15:06 AM	:Client Session 2  Initialized from 127.0.0.1:51730.
+4/6/2012 8:15:06 AM	Awaiting connection on port 5000.
+4/6/2012 8:15:18 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchcompany</Action><Company>s</Company></Request>
+4/6/2012 8:15:18 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 8:15:18 AM	: companies found! 
+4/6/2012 8:15:18 AM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Company>Screen Gems</Company><Title>Underworld</Title></DVD><DVD><Company>Screen Gems</Company><Title>Underworld 2:Evolution</Title></DVD><DVD><Company>Screen Gems</Company><Title>Underworld 3:Rise of the Lycans</Title></DVD><DVD><Company>Screen Gems</Company><Title>Underworld 4:Awakening</Title></DVD></DVDS></Response>
+4/6/2012 8:15:18 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 8:15:18 AM	: Response: 
+4/6/2012 8:15:18 AM	:Session 2 disconnected.
+4/6/2012 8:15:32 AM	Accepted a Connection from: 127.0.0.1:51758.
+4/6/2012 8:15:32 AM	:Client Session 3  Initialized from 127.0.0.1:51758.
+4/6/2012 8:15:32 AM	Awaiting connection on port 5000.
+4/6/2012 8:15:36 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchcompany</Action><Company>k</Company></Request>
+4/6/2012 8:15:36 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 8:15:36 AM	: companies found! 
+4/6/2012 8:15:36 AM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Company>k</Company><Title>f</Title></DVD></DVDS></Response>
+4/6/2012 8:15:36 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 8:15:36 AM	: Response: 
+4/6/2012 8:15:36 AM	:Session 3 disconnected.
+4/6/2012 8:16:02 AM	Accepted a Connection from: 127.0.0.1:51789.
+4/6/2012 8:16:02 AM	:Client Session 4  Initialized from 127.0.0.1:51789.
+4/6/2012 8:16:02 AM	Awaiting connection on port 5000.
+4/6/2012 8:16:11 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchgenre</Action><Genre>12</Genre></Request>
+4/6/2012 8:16:11 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 8:16:11 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 8:16:11 AM	: movie genres found! 
+4/6/2012 8:16:11 AM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><description>Fantasy</description><Title>Underworld</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 2:Evolution</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 3:Rise of the Lycans</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 4:Awakening</Title></DVD></DVDS></Response>
+4/6/2012 8:16:11 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 8:16:11 AM	: Response: 
+4/6/2012 8:16:11 AM	:Session 4 disconnected.
+4/6/2012 8:16:30 AM	Accepted a Connection from: 127.0.0.1:51818.
+4/6/2012 8:16:30 AM	:Client Session 5  Initialized from 127.0.0.1:51818.
+4/6/2012 8:16:30 AM	Awaiting connection on port 5000.
+4/6/2012 8:16:30 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchgenre</Action><Genre>12</Genre></Request><?xml version="1.0" encoding="utf-16"?><Request><Action>getgenre</Action></Request>
+4/6/2012 8:16:30 AM	:XML Parsing Error: Unexpected XML declaration. The XML declaration must be the first node in the document, and no white space characters are allowed to appear before it. Line 1, position 106.
+4/6/2012 8:16:30 AM	: Response: 
+4/6/2012 8:16:42 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 8:16:42 AM	: Response: 
+4/6/2012 8:16:42 AM	:Session 5 disconnected.
+4/6/2012 8:17:10 AM	Accepted a Connection from: 127.0.0.1:51859.
+4/6/2012 8:17:10 AM	:Client Session 6  Initialized from 127.0.0.1:51859.
+4/6/2012 8:17:10 AM	Awaiting connection on port 5000.
+4/6/2012 8:17:10 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>getgenre</Action></Request>
+4/6/2012 8:17:10 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 8:17:10 AM	: genres found! 
+4/6/2012 8:17:10 AM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><Genres><Genre><ID>0</ID><Description>Unknown</Description></Genre><Genre><ID>1</ID><Description>Action</Description></Genre><Genre><ID>2</ID><Description>Adventure</Description></Genre><Genre><ID>3</ID><Description>Animation</Description></Genre><Genre><ID>4</ID><Description>Comedy</Description></Genre><Genre><ID>5</ID><Description>Comic Book</Description></Genre><Genre><ID>6</ID><Description>Crime</Description></Genre><Genre><ID>7</ID><Description>Dance</Description></Genre><Genre><ID>8</ID><Description>Disaster</Description></Genre><Genre><ID>9</ID><Description>Documentary</Description></Genre><Genre><ID>10</ID><Description>Drama</Description></Genre><Genre><ID>11</ID><Description>Epic</Description></Genre><Genre><ID>12</ID><Description>Fantasy</Description></Genre><Genre><ID>13</ID><Description>Game Show</Description></Genre><Genre><ID>14</ID><Description>Gangster</Description></Genre><Genre><ID>15</ID><Description>Historical</Description></Genre><Genre><ID>16</ID><Description>Horror</Description></Genre><Genre><ID>17</ID><Description>Musical</Description></Genre><Genre><ID>18</ID><Description>Mystery</Description></Genre><Genre><ID>19</ID><Description>Myth</Description></Genre><Genre><ID>20</ID><Description>News</Description></Genre><Genre><ID>21</ID><Description>Reality TV</Description></Genre><Genre><ID>22</ID><Description>Romance</Description></Genre><Genre><ID>23</ID><Description>Science Fiction</Description></Genre><Genre><ID>24</ID><Description>Sports</Description></Genre><Genre><ID>25</ID><Description>Suspense</Description></Genre><Genre><ID>26</ID><Description>Thriller</Description></Genre><Genre><ID>27</ID><Description>TV Show</Description></Genre><Genre><ID>28</ID><Description>War</Description></Genre><Genre><ID>29</ID><Description>Western</Description></Genre></Genres></Response>
+4/6/2012 8:17:10 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 8:17:10 AM	: Response: 
+4/6/2012 8:17:10 AM	:Session 6 disconnected.
+4/6/2012 8:20:23 AM	Accepted a Connection from: 127.0.0.1:52051.
+4/6/2012 8:20:23 AM	:Client Session 7  Initialized from 127.0.0.1:52051.
+4/6/2012 8:20:23 AM	Awaiting connection on port 5000.
+4/6/2012 8:20:41 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchgenre</Action><Genre>12</Genre></Request>
+4/6/2012 8:20:41 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 8:20:41 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 8:20:41 AM	: movie genres found! 
+4/6/2012 8:20:41 AM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><description>Fantasy</description><Title>Underworld</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 2:Evolution</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 3:Rise of the Lycans</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 4:Awakening</Title></DVD></DVDS></Response>
+4/6/2012 8:20:46 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 8:20:46 AM	: Response: 
+4/6/2012 8:20:46 AM	:Session 7 disconnected.
+4/6/2012 8:22:41 AM	Accepted a Connection from: 127.0.0.1:52189.
+4/6/2012 8:22:41 AM	:Client Session 8  Initialized from 127.0.0.1:52189.
+4/6/2012 8:22:41 AM	Awaiting connection on port 5000.
+4/6/2012 8:22:43 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchgenre</Action><Genre>12</Genre></Request><?xml version="1.0" encoding="utf-16"?><Request><Action>getgenre</Action></Request>
+4/6/2012 8:22:43 AM	:XML Parsing Error: Unexpected XML declaration. The XML declaration must be the first node in the document, and no white space characters are allowed to appear before it. Line 1, position 106.
+4/6/2012 8:22:43 AM	: Response: 
+4/6/2012 8:23:01 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 8:23:01 AM	: Response: 
+4/6/2012 8:23:01 AM	:Session 8 disconnected.
+4/6/2012 8:23:41 AM	Accepted a Connection from: 127.0.0.1:52250.
+4/6/2012 8:23:41 AM	:Client Session 9  Initialized from 127.0.0.1:52250.
+4/6/2012 8:23:41 AM	Awaiting connection on port 5000.
+4/6/2012 8:23:58 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchgenre</Action><Genre>12</Genre></Request>
+4/6/2012 8:23:58 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 8:23:58 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 8:23:58 AM	: movie genres found! 
+4/6/2012 8:23:58 AM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><description>Fantasy</description><Title>Underworld</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 2:Evolution</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 3:Rise of the Lycans</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 4:Awakening</Title></DVD></DVDS></Response>
+4/6/2012 8:23:59 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 8:23:59 AM	: Response: 
+4/6/2012 8:23:59 AM	:Session 9 disconnected.
+4/6/2012 8:25:06 AM	Accepted a Connection from: 127.0.0.1:52335.
+4/6/2012 8:25:06 AM	:Client Session 10  Initialized from 127.0.0.1:52335.
+4/6/2012 8:25:06 AM	Awaiting connection on port 5000.
+4/6/2012 8:25:17 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchgenre</Action><Genre>12</Genre></Request><?xml version="1.0" encoding="utf-16"?><Request><Action>getgenre</Action></Request>
+4/6/2012 8:25:17 AM	:XML Parsing Error: Unexpected XML declaration. The XML declaration must be the first node in the document, and no white space characters are allowed to appear before it. Line 1, position 106.
+4/6/2012 8:25:17 AM	: Response: 
+4/6/2012 8:26:18 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 8:26:18 AM	: Response: 
+4/6/2012 8:26:18 AM	:Session 10 disconnected.
+4/6/2012 8:27:02 AM	Accepted a Connection from: 127.0.0.1:52451.
+4/6/2012 8:27:02 AM	:Client Session 11  Initialized from 127.0.0.1:52451.
+4/6/2012 8:27:02 AM	Awaiting connection on port 5000.
+4/6/2012 8:27:04 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>getgenre</Action></Request>
+4/6/2012 8:27:04 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 8:27:04 AM	: genres found! 
+4/6/2012 8:27:04 AM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><Genres><Genre><ID>0</ID><Description>Unknown</Description></Genre><Genre><ID>1</ID><Description>Action</Description></Genre><Genre><ID>2</ID><Description>Adventure</Description></Genre><Genre><ID>3</ID><Description>Animation</Description></Genre><Genre><ID>4</ID><Description>Comedy</Description></Genre><Genre><ID>5</ID><Description>Comic Book</Description></Genre><Genre><ID>6</ID><Description>Crime</Description></Genre><Genre><ID>7</ID><Description>Dance</Description></Genre><Genre><ID>8</ID><Description>Disaster</Description></Genre><Genre><ID>9</ID><Description>Documentary</Description></Genre><Genre><ID>10</ID><Description>Drama</Description></Genre><Genre><ID>11</ID><Description>Epic</Description></Genre><Genre><ID>12</ID><Description>Fantasy</Description></Genre><Genre><ID>13</ID><Description>Game Show</Description></Genre><Genre><ID>14</ID><Description>Gangster</Description></Genre><Genre><ID>15</ID><Description>Historical</Description></Genre><Genre><ID>16</ID><Description>Horror</Description></Genre><Genre><ID>17</ID><Description>Musical</Description></Genre><Genre><ID>18</ID><Description>Mystery</Description></Genre><Genre><ID>19</ID><Description>Myth</Description></Genre><Genre><ID>20</ID><Description>News</Description></Genre><Genre><ID>21</ID><Description>Reality TV</Description></Genre><Genre><ID>22</ID><Description>Romance</Description></Genre><Genre><ID>23</ID><Description>Science Fiction</Description></Genre><Genre><ID>24</ID><Description>Sports</Description></Genre><Genre><ID>25</ID><Description>Suspense</Description></Genre><Genre><ID>26</ID><Description>Thriller</Description></Genre><Genre><ID>27</ID><Description>TV Show</Description></Genre><Genre><ID>28</ID><Description>War</Description></Genre><Genre><ID>29</ID><Description>Western</Description></Genre></Genres></Response>
+4/6/2012 8:27:55 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 8:27:55 AM	: Response: 
+4/6/2012 8:27:55 AM	:Session 11 disconnected.
+4/6/2012 8:31:59 AM	Start System Initialization
+4/6/2012 8:31:59 AM	Server Started.
+4/6/2012 8:31:59 AM	Awaiting connection on port 5000.
+4/6/2012 8:32:43 AM	Accepted a Connection from: 127.0.0.1:52789.
+4/6/2012 8:32:43 AM	:Client Session 1  Initialized from 127.0.0.1:52789.
+4/6/2012 8:32:43 AM	Awaiting connection on port 5000.
+4/6/2012 8:32:47 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchgenre</Action><Genre>12</Genre></Request>
+4/6/2012 8:33:08 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 8:34:44 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 8:36:04 AM	: movie genres found! 
+4/6/2012 8:36:41 AM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><description>Fantasy</description><Title>Underworld</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 2:Evolution</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 3:Rise of the Lycans</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 4:Awakening</Title></DVD></DVDS></Response>
+4/6/2012 8:37:26 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 8:37:28 AM	: Response: 
+4/6/2012 8:37:34 AM	:Session 1 disconnected.
+4/6/2012 8:40:42 AM	Start System Initialization
+4/6/2012 8:40:42 AM	Server Started.
+4/6/2012 8:40:42 AM	Awaiting connection on port 5000.
+4/6/2012 8:41:07 AM	Accepted a Connection from: 127.0.0.1:53285.
+4/6/2012 8:41:07 AM	:Client Session 1  Initialized from 127.0.0.1:53285.
+4/6/2012 8:41:07 AM	Awaiting connection on port 5000.
+4/6/2012 8:42:22 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchgenre</Action><Genre>12</Genre></Request>
+4/6/2012 8:42:43 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 8:43:30 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 8:44:35 AM	: movie genres found! 
+4/6/2012 8:44:55 AM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><description>Fantasy</description><Title>Underworld</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 2:Evolution</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 3:Rise of the Lycans</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 4:Awakening</Title></DVD></DVDS></Response>
+4/6/2012 8:45:39 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 8:46:51 AM	: Response: 
+4/6/2012 8:47:17 AM	:Session 1 disconnected.
+4/6/2012 8:52:44 AM	Accepted a Connection from: 127.0.0.1:53971.
+4/6/2012 8:52:44 AM	:Client Session 2  Initialized from 127.0.0.1:53971.
+4/6/2012 8:52:44 AM	Awaiting connection on port 5000.
+4/6/2012 8:53:03 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchgenre</Action><Genre>12</Genre></Request><?xml version="1.0" encoding="utf-16"?><Request><Action>getgenre</Action></Request>
+4/6/2012 8:53:03 AM	:XML Parsing Error: Unexpected XML declaration. The XML declaration must be the first node in the document, and no white space characters are allowed to appear before it. Line 1, position 106.
+4/6/2012 8:53:03 AM	: Response: 
+4/6/2012 9:02:11 AM	Start System Initialization
+4/6/2012 9:02:11 AM	Server Started.
+4/6/2012 9:02:11 AM	Awaiting connection on port 5000.
+4/6/2012 9:02:55 AM	Accepted a Connection from: 127.0.0.1:54580.
+4/6/2012 9:02:55 AM	:Client Session 1  Initialized from 127.0.0.1:54580.
+4/6/2012 9:02:55 AM	Awaiting connection on port 5000.
+4/6/2012 9:02:57 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchgenre</Action><Genre>12</Genre></Request>
+4/6/2012 9:02:57 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 9:02:57 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 9:02:57 AM	: movie genres found! 
+4/6/2012 9:02:57 AM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><description>Fantasy</description><Title>Underworld</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 2:Evolution</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 3:Rise of the Lycans</Title></DVD><DVD><description>Fantasy</description><Title>Underworld 4:Awakening</Title></DVD></DVDS></Response>
+4/6/2012 9:02:57 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 9:03:03 AM	: Response: 
+4/6/2012 9:03:06 AM	:Session 1 disconnected.
+4/6/2012 9:05:08 AM	Accepted a Connection from: 127.0.0.1:54713.
+4/6/2012 9:05:08 AM	:Client Session 2  Initialized from 127.0.0.1:54713.
+4/6/2012 9:05:08 AM	Awaiting connection on port 5000.
+4/6/2012 9:05:13 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>getgenre</Action></Request>
+4/6/2012 9:06:09 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 9:06:52 AM	: genres found! 
+4/6/2012 9:07:49 AM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><Genres><Genre><ID>0</ID><Description>Unknown</Description></Genre><Genre><ID>1</ID><Description>Action</Description></Genre><Genre><ID>2</ID><Description>Adventure</Description></Genre><Genre><ID>3</ID><Description>Animation</Description></Genre><Genre><ID>4</ID><Description>Comedy</Description></Genre><Genre><ID>5</ID><Description>Comic Book</Description></Genre><Genre><ID>6</ID><Description>Crime</Description></Genre><Genre><ID>7</ID><Description>Dance</Description></Genre><Genre><ID>8</ID><Description>Disaster</Description></Genre><Genre><ID>9</ID><Description>Documentary</Description></Genre><Genre><ID>10</ID><Description>Drama</Description></Genre><Genre><ID>11</ID><Description>Epic</Description></Genre><Genre><ID>12</ID><Description>Fantasy</Description></Genre><Genre><ID>13</ID><Description>Game Show</Description></Genre><Genre><ID>14</ID><Description>Gangster</Description></Genre><Genre><ID>15</ID><Description>Historical</Description></Genre><Genre><ID>16</ID><Description>Horror</Description></Genre><Genre><ID>17</ID><Description>Musical</Description></Genre><Genre><ID>18</ID><Description>Mystery</Description></Genre><Genre><ID>19</ID><Description>Myth</Description></Genre><Genre><ID>20</ID><Description>News</Description></Genre><Genre><ID>21</ID><Description>Reality TV</Description></Genre><Genre><ID>22</ID><Description>Romance</Description></Genre><Genre><ID>23</ID><Description>Science Fiction</Description></Genre><Genre><ID>24</ID><Description>Sports</Description></Genre><Genre><ID>25</ID><Description>Suspense</Description></Genre><Genre><ID>26</ID><Description>Thriller</Description></Genre><Genre><ID>27</ID><Description>TV Show</Description></Genre><Genre><ID>28</ID><Description>War</Description></Genre><Genre><ID>29</ID><Description>Western</Description></Genre></Genres></Response>
+4/6/2012 9:09:32 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 9:09:34 AM	: Response: 
+4/6/2012 9:09:36 AM	:Session 2 disconnected.
+4/6/2012 9:38:37 AM	Accepted a Connection from: 127.0.0.1:56980.
+4/6/2012 9:38:37 AM	:Client Session 3  Initialized from 127.0.0.1:56980.
+4/6/2012 9:38:37 AM	Awaiting connection on port 5000.
+4/6/2012 9:39:21 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>addall</Action><Title>Title</Title><First>First</First><Last>Last</Last><First2>First2</First2><Last2>Last2</Last2><Company>Company</Company><Genre>0</Genre><Runtime>0</Runtime><Type>U</Type><Status>E</Status></Request>
+4/6/2012 9:39:21 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 9:39:21 AM	:Record Added!  New ID: 20
+4/6/2012 9:39:21 AM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><ID>20</ID></Response>
+4/6/2012 9:39:45 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 9:40:06 AM	: Response: 
+4/6/2012 9:40:06 AM	:Session 3 disconnected.
+4/6/2012 9:42:36 AM	Accepted a Connection from: 127.0.0.1:57219.
+4/6/2012 9:42:36 AM	:Client Session 4  Initialized from 127.0.0.1:57219.
+4/6/2012 9:42:36 AM	Awaiting connection on port 5000.
+4/6/2012 9:42:57 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 9:43:11 AM	: Response: 
+4/6/2012 9:43:12 AM	:Session 4 disconnected.
+4/6/2012 9:43:40 AM	Accepted a Connection from: 127.0.0.1:57284.
+4/6/2012 9:43:40 AM	:Client Session 5  Initialized from 127.0.0.1:57284.
+4/6/2012 9:43:40 AM	Awaiting connection on port 5000.
+4/6/2012 9:44:51 AM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>addall</Action><Title>Title</Title><First>First</First><Last>Last</Last><First2>First2</First2><Last2>Last2</Last2><Company>Company</Company><Genre>0</Genre><Runtime>0</Runtime><Type>U</Type><Status>E</Status></Request>
+4/6/2012 9:44:51 AM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/6/2012 9:44:51 AM	:Record Added!  New ID: 21
+4/6/2012 9:44:51 AM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><ID>21</ID></Response>
+4/6/2012 9:45:49 AM	: request: 
+4/6/2012 9:45:49 AM	:General Error: Value cannot be null.
+Parameter name: s
+4/6/2012 9:45:49 AM	: Response: 
+4/6/2012 9:45:49 AM	:client disconnected without shutting down server first. Session: 5
+4/6/2012 9:45:49 AM	: request: 
+4/6/2012 9:45:49 AM	:XML Parsing Error: Root element is missing.
+4/6/2012 9:45:49 AM	: Response: 
+4/6/2012 9:47:39 AM	Start System Initialization
+4/6/2012 9:47:39 AM	Server Started.
+4/6/2012 9:47:39 AM	Awaiting connection on port 5000.
+4/6/2012 9:48:05 AM	Accepted a Connection from: 127.0.0.1:57547.
+4/6/2012 9:48:05 AM	:Client Session 1  Initialized from 127.0.0.1:57547.
+4/6/2012 9:48:05 AM	Awaiting connection on port 5000.
+4/6/2012 9:48:27 AM	: request: <Request><Action>disconnect</Action></Request>
+4/6/2012 9:48:35 AM	: Response: 
+4/6/2012 9:48:43 AM	:Session 1 disconnected.
+4/9/2012 3:10:28 PM	Start System Initialization
+4/9/2012 3:10:28 PM	Server Started.
+4/9/2012 3:10:28 PM	Awaiting connection on port 5000.
+4/9/2012 9:06:03 PM	Start System Initialization
+4/9/2012 9:06:03 PM	Server Started.
+4/9/2012 9:06:03 PM	Awaiting connection on port 5000.
+4/9/2012 9:06:34 PM	Accepted a Connection from: 127.0.0.1:57666.
+4/9/2012 9:06:34 PM	:Client Session 1  Initialized from 127.0.0.1:57666.
+4/9/2012 9:06:34 PM	Awaiting connection on port 5000.
+4/9/2012 9:06:52 PM	: request: <Request><Action>disconnect</Action></Request>
+4/9/2012 9:07:21 PM	: Response: 
+4/9/2012 9:08:49 PM	Start System Initialization
+4/9/2012 9:08:49 PM	Server Started.
+4/9/2012 9:08:49 PM	Awaiting connection on port 5000.
+4/9/2012 9:09:09 PM	Accepted a Connection from: 127.0.0.1:57886.
+4/9/2012 9:09:09 PM	:Client Session 1  Initialized from 127.0.0.1:57886.
+4/9/2012 9:09:09 PM	Awaiting connection on port 5000.
+4/9/2012 9:19:33 PM	:client disconnected without shutting down server first. Session: 1
+4/9/2012 9:19:33 PM	: request: 
+4/9/2012 9:19:33 PM	:XML Parsing Error: Root element is missing.
+4/9/2012 9:19:33 PM	: Response: 
+4/9/2012 9:19:42 PM	Start System Initialization
+4/9/2012 9:19:43 PM	Server Started.
+4/9/2012 9:19:43 PM	Awaiting connection on port 5000.
+4/9/2012 9:20:05 PM	Accepted a Connection from: 127.0.0.1:58835.
+4/9/2012 9:20:05 PM	:Client Session 1  Initialized from 127.0.0.1:58835.
+4/9/2012 9:20:05 PM	Awaiting connection on port 5000.
+4/9/2012 10:47:33 PM	Start System Initialization
+4/9/2012 10:47:33 PM	Server Started.
+4/9/2012 10:47:33 PM	Awaiting connection on port 5000.
+4/9/2012 10:47:49 PM	Accepted a Connection from: 127.0.0.1:50468.
+4/9/2012 10:47:49 PM	:Client Session 1  Initialized from 127.0.0.1:50468.
+4/9/2012 10:47:49 PM	Awaiting connection on port 5000.
+4/9/2012 10:51:15 PM	Accepted a Connection from: 127.0.0.1:50752.
+4/9/2012 10:51:15 PM	:Client Session 2  Initialized from 127.0.0.1:50752.
+4/9/2012 10:51:15 PM	Awaiting connection on port 5000.
+4/9/2012 10:58:27 PM	:client disconnected without shutting down server first. Session: 1
+4/9/2012 10:58:27 PM	:client disconnected without shutting down server first. Session: 2
+4/9/2012 10:58:27 PM	: request: 
+4/9/2012 10:58:27 PM	: request: 
+4/9/2012 10:58:27 PM	:XML Parsing Error: Root element is missing.
+4/9/2012 10:58:27 PM	:XML Parsing Error: Root element is missing.
+4/9/2012 10:58:27 PM	: Response: 
+4/9/2012 10:58:27 PM	: Response: 
+4/9/2012 10:59:11 PM	Start System Initialization
+4/9/2012 10:59:11 PM	Server Started.
+4/9/2012 10:59:11 PM	Awaiting connection on port 5000.
+4/9/2012 11:18:50 PM	Start System Initialization
+4/9/2012 11:18:50 PM	Server Started.
+4/9/2012 11:18:50 PM	Awaiting connection on port 5000.
+4/9/2012 11:35:34 PM	Accepted a Connection from: 127.0.0.1:54497.
+4/9/2012 11:35:34 PM	:Client Session 1  Initialized from 127.0.0.1:54497.
+4/9/2012 11:35:34 PM	Awaiting connection on port 5000.
+4/9/2012 11:37:19 PM	:client disconnected without shutting down server first. Session: 1
+4/9/2012 11:37:19 PM	: request: 
+4/9/2012 11:37:19 PM	:XML Parsing Error: Root element is missing.
+4/9/2012 11:37:19 PM	: Response: 
+4/9/2012 11:51:34 PM	Start System Initialization
+4/9/2012 11:51:35 PM	Server Started.
+4/9/2012 11:51:35 PM	Awaiting connection on port 5000.
+4/9/2012 11:53:06 PM	Accepted a Connection from: 127.0.0.1:56199.
+4/9/2012 11:53:06 PM	:Client Session 1  Initialized from 127.0.0.1:56199.
+4/9/2012 11:53:06 PM	Awaiting connection on port 5000.
+4/9/2012 11:55:09 PM	:client disconnected without shutting down server first. Session: 1
+4/9/2012 11:55:09 PM	: request: 
+4/9/2012 11:55:09 PM	:XML Parsing Error: Root element is missing.
+4/9/2012 11:55:09 PM	: Response: 
+4/9/2012 11:55:28 PM	Start System Initialization
+4/9/2012 11:55:28 PM	Server Started.
+4/9/2012 11:55:28 PM	Awaiting connection on port 5000.
+4/9/2012 11:56:07 PM	Accepted a Connection from: 127.0.0.1:56432.
+4/9/2012 11:56:07 PM	:Client Session 1  Initialized from 127.0.0.1:56432.
+4/9/2012 11:56:07 PM	Awaiting connection on port 5000.
+4/9/2012 11:57:43 PM	:client disconnected without shutting down server first. Session: 1
+4/9/2012 11:57:43 PM	: request: 
+4/9/2012 11:57:43 PM	:XML Parsing Error: Root element is missing.
+4/9/2012 11:57:43 PM	: Response: 
+4/10/2012 12:05:34 AM	Start System Initialization
+4/10/2012 12:05:34 AM	Server Started.
+4/10/2012 12:05:35 AM	Awaiting connection on port 5000.
+4/10/2012 12:06:11 AM	Accepted a Connection from: 127.0.0.1:57194.
+4/10/2012 12:06:12 AM	:Client Session 1  Initialized from 127.0.0.1:57194.
+4/10/2012 12:06:13 AM	Awaiting connection on port 5000.
+4/10/2012 12:08:46 AM	:client disconnected without shutting down server first. Session: 1
+4/10/2012 12:08:46 AM	: request: 
+4/10/2012 12:08:46 AM	:XML Parsing Error: Root element is missing.
+4/10/2012 12:08:46 AM	: Response: 
+4/10/2012 12:17:41 AM	Start System Initialization
+4/10/2012 12:17:41 AM	Server Started.
+4/10/2012 12:17:41 AM	Awaiting connection on port 5000.
+4/10/2012 12:18:24 AM	Accepted a Connection from: 127.0.0.1:58418.
+4/10/2012 12:18:24 AM	:Client Session 1  Initialized from 127.0.0.1:58418.
+4/10/2012 12:18:24 AM	Awaiting connection on port 5000.
+4/11/2012 7:39:02 PM	Start System Initialization
+4/11/2012 7:39:03 PM	Server Started.
+4/11/2012 7:39:03 PM	Awaiting connection on port 5000.
+4/11/2012 7:40:00 PM	Accepted a Connection from: 127.0.0.1:61538.
+4/11/2012 7:40:00 PM	:Client Session 1  Initialized from 127.0.0.1:61538.
+4/11/2012 7:40:00 PM	Awaiting connection on port 5000.
+4/11/2012 7:40:00 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchruntime</Action><Runtime>90</Runtime></Request>
+4/11/2012 7:40:00 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 7:40:01 PM	: Runtimes found! 
+4/11/2012 7:40:01 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Runtime>90</Runtime><Title> anchorman</Title></DVD><DVD><Runtime>90</Runtime><Title>a</Title></DVD></DVDS></Response>
+4/11/2012 7:40:01 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 7:40:01 PM	: Response: 
+4/11/2012 7:40:01 PM	:Session 1 disconnected.
+4/11/2012 7:41:57 PM	Accepted a Connection from: 127.0.0.1:61728.
+4/11/2012 7:41:57 PM	:Client Session 2  Initialized from 127.0.0.1:61728.
+4/11/2012 7:41:57 PM	Awaiting connection on port 5000.
+4/11/2012 7:41:57 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchruntime</Action><Runtime>90</Runtime></Request>
+4/11/2012 7:41:57 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 7:41:57 PM	: Runtimes found! 
+4/11/2012 7:41:57 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Runtime>90</Runtime><Title> anchorman</Title></DVD><DVD><Runtime>90</Runtime><Title>a</Title></DVD></DVDS></Response>
+4/11/2012 7:41:57 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 7:41:57 PM	: Response: 
+4/11/2012 7:41:57 PM	:Session 2 disconnected.
+4/11/2012 7:43:03 PM	Accepted a Connection from: 127.0.0.1:61807.
+4/11/2012 7:43:03 PM	:Client Session 3  Initialized from 127.0.0.1:61807.
+4/11/2012 7:43:03 PM	Awaiting connection on port 5000.
+4/11/2012 7:43:03 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchruntime</Action><Runtime>90</Runtime></Request>
+4/11/2012 7:43:03 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 7:43:03 PM	: Runtimes found! 
+4/11/2012 7:43:03 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Runtime>90</Runtime><Title> anchorman</Title></DVD><DVD><Runtime>90</Runtime><Title>a</Title></DVD></DVDS></Response>
+4/11/2012 7:43:03 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 7:43:03 PM	: Response: 
+4/11/2012 7:43:03 PM	:Session 3 disconnected.
+4/11/2012 7:44:02 PM	Accepted a Connection from: 127.0.0.1:61884.
+4/11/2012 7:44:02 PM	:Client Session 4  Initialized from 127.0.0.1:61884.
+4/11/2012 7:44:02 PM	Awaiting connection on port 5000.
+4/11/2012 7:44:02 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchruntime</Action><Runtime>90</Runtime></Request>
+4/11/2012 7:44:02 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 7:44:02 PM	: Runtimes found! 
+4/11/2012 7:44:02 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Runtime>90</Runtime><Title> anchorman</Title></DVD><DVD><Runtime>90</Runtime><Title>a</Title></DVD></DVDS></Response>
+4/11/2012 7:44:02 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 7:44:02 PM	: Response: 
+4/11/2012 7:44:02 PM	:Session 4 disconnected.
+4/11/2012 7:44:26 PM	Accepted a Connection from: 127.0.0.1:61937.
+4/11/2012 7:44:26 PM	:Client Session 5  Initialized from 127.0.0.1:61937.
+4/11/2012 7:44:26 PM	Awaiting connection on port 5000.
+4/11/2012 7:44:26 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchtype</Action><Type>B</Type></Request>
+4/11/2012 7:44:26 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 7:44:26 PM	: DVD types found! 
+4/11/2012 7:44:26 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Type>&#x0;</Type><Title>Transformers</Title></DVD><DVD><Type>&#x0;</Type><Title>Transformers 2</Title></DVD><DVD><Type>&#x0;</Type><Title>Transformers 3</Title></DVD><DVD><Type>&#x0;</Type><Title>p</Title></DVD></DVDS></Response>
+4/11/2012 7:44:26 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 7:44:26 PM	: Response: 
+4/11/2012 7:44:26 PM	:Session 5 disconnected.
+4/11/2012 7:44:59 PM	Accepted a Connection from: 127.0.0.1:61988.
+4/11/2012 7:44:59 PM	:Client Session 6  Initialized from 127.0.0.1:61988.
+4/11/2012 7:44:59 PM	Awaiting connection on port 5000.
+4/11/2012 7:44:59 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchtype</Action><Type>U</Type></Request>
+4/11/2012 7:44:59 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 7:44:59 PM	: DVD types found! 
+4/11/2012 7:44:59 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Type>&#x0;</Type><Title>Underworld 4:Awakening</Title></DVD><DVD><Type>&#x0;</Type><Title>a</Title></DVD><DVD><Type>&#x0;</Type><Title>l</Title></DVD><DVD><Type>&#x0;</Type><Title>f</Title></DVD><DVD><Type>&#x0;</Type><Title>k</Title></DVD><DVD><Type>&#x0;</Type><Title>l</Title></DVD><DVD><Type>&#x0;</Type><Title>k</Title></DVD><DVD><Type>&#x0;</Type><Title>P</Title></DVD><DVD><Type>&#x0;</Type><Title>l</Title></DVD><DVD><Type>&#x0;</Type><Title>Title</Title></DVD><DVD><Type>&#x0;</Type><Title>Pirates of the Caribbean</Title></DVD><DVD><Type>&#x0;</Type><Title>Title</Title></DVD><DVD><Type>&#x0;</Type><Title>Title</Title></DVD></DVDS></Response>
+4/11/2012 7:44:59 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 7:44:59 PM	: Response: 
+4/11/2012 7:44:59 PM	:Session 6 disconnected.
+4/11/2012 7:46:40 PM	Accepted a Connection from: 127.0.0.1:62128.
+4/11/2012 7:46:40 PM	:Client Session 7  Initialized from 127.0.0.1:62128.
+4/11/2012 7:46:40 PM	Awaiting connection on port 5000.
+4/11/2012 7:46:40 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchtype</Action><Type>U</Type></Request>
+4/11/2012 7:47:04 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 7:49:47 PM	: DVD types found! 
+4/11/2012 7:50:38 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Type>&#x0;</Type><Title>Underworld 4:Awakening</Title></DVD><DVD><Type>&#x0;</Type><Title>a</Title></DVD><DVD><Type>&#x0;</Type><Title>l</Title></DVD><DVD><Type>&#x0;</Type><Title>f</Title></DVD><DVD><Type>&#x0;</Type><Title>k</Title></DVD><DVD><Type>&#x0;</Type><Title>l</Title></DVD><DVD><Type>&#x0;</Type><Title>k</Title></DVD><DVD><Type>&#x0;</Type><Title>P</Title></DVD><DVD><Type>&#x0;</Type><Title>l</Title></DVD><DVD><Type>&#x0;</Type><Title>Title</Title></DVD><DVD><Type>&#x0;</Type><Title>Pirates of the Caribbean</Title></DVD><DVD><Type>&#x0;</Type><Title>Title</Title></DVD><DVD><Type>&#x0;</Type><Title>Title</Title></DVD></DVDS></Response>
+4/11/2012 7:50:43 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 7:50:47 PM	: Response: 
+4/11/2012 7:50:53 PM	:Session 7 disconnected.
+4/11/2012 7:52:28 PM	Accepted a Connection from: 127.0.0.1:62580.
+4/11/2012 7:52:28 PM	:Client Session 8  Initialized from 127.0.0.1:62580.
+4/11/2012 7:52:28 PM	Awaiting connection on port 5000.
+4/11/2012 7:52:28 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchtype</Action><Type>U</Type></Request>
+4/11/2012 7:52:28 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 7:52:28 PM	: DVD types found! 
+4/11/2012 7:52:28 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Type>&#x0;</Type><Title>Underworld 4:Awakening</Title></DVD><DVD><Type>&#x0;</Type><Title>a</Title></DVD><DVD><Type>&#x0;</Type><Title>l</Title></DVD><DVD><Type>&#x0;</Type><Title>f</Title></DVD><DVD><Type>&#x0;</Type><Title>k</Title></DVD><DVD><Type>&#x0;</Type><Title>l</Title></DVD><DVD><Type>&#x0;</Type><Title>k</Title></DVD><DVD><Type>&#x0;</Type><Title>P</Title></DVD><DVD><Type>&#x0;</Type><Title>l</Title></DVD><DVD><Type>&#x0;</Type><Title>Title</Title></DVD><DVD><Type>&#x0;</Type><Title>Pirates of the Caribbean</Title></DVD><DVD><Type>&#x0;</Type><Title>Title</Title></DVD><DVD><Type>&#x0;</Type><Title>Title</Title></DVD></DVDS></Response>
+4/11/2012 7:52:28 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 7:52:28 PM	: Response: 
+4/11/2012 7:52:28 PM	:Session 8 disconnected.
+4/11/2012 7:53:01 PM	Accepted a Connection from: 127.0.0.1:62614.
+4/11/2012 7:53:01 PM	:Client Session 9  Initialized from 127.0.0.1:62614.
+4/11/2012 7:53:01 PM	Awaiting connection on port 5000.
+4/11/2012 7:53:01 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchtype</Action><Type>U</Type></Request>
+4/11/2012 7:53:01 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 7:53:01 PM	: DVD types found! 
+4/11/2012 7:53:01 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Type>&#x0;</Type><Title>Underworld 4:Awakening</Title></DVD><DVD><Type>&#x0;</Type><Title>a</Title></DVD><DVD><Type>&#x0;</Type><Title>l</Title></DVD><DVD><Type>&#x0;</Type><Title>f</Title></DVD><DVD><Type>&#x0;</Type><Title>k</Title></DVD><DVD><Type>&#x0;</Type><Title>l</Title></DVD><DVD><Type>&#x0;</Type><Title>k</Title></DVD><DVD><Type>&#x0;</Type><Title>P</Title></DVD><DVD><Type>&#x0;</Type><Title>l</Title></DVD><DVD><Type>&#x0;</Type><Title>Title</Title></DVD><DVD><Type>&#x0;</Type><Title>Pirates of the Caribbean</Title></DVD><DVD><Type>&#x0;</Type><Title>Title</Title></DVD><DVD><Type>&#x0;</Type><Title>Title</Title></DVD></DVDS></Response>
+4/11/2012 7:53:01 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 7:53:01 PM	: Response: 
+4/11/2012 7:53:01 PM	:Session 9 disconnected.
+4/11/2012 7:55:07 PM	Accepted a Connection from: 127.0.0.1:62754.
+4/11/2012 7:55:07 PM	:Client Session 10  Initialized from 127.0.0.1:62754.
+4/11/2012 7:55:07 PM	Awaiting connection on port 5000.
+4/11/2012 7:55:08 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchtype</Action><Type>U</Type></Request>
+4/11/2012 7:55:08 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 7:55:08 PM	: DVD types found! 
+4/11/2012 7:55:08 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Type>&#x0;</Type><Title>Underworld 4:Awakening</Title></DVD><DVD><Type>&#x0;</Type><Title>a</Title></DVD><DVD><Type>&#x0;</Type><Title>l</Title></DVD><DVD><Type>&#x0;</Type><Title>f</Title></DVD><DVD><Type>&#x0;</Type><Title>k</Title></DVD><DVD><Type>&#x0;</Type><Title>l</Title></DVD><DVD><Type>&#x0;</Type><Title>k</Title></DVD><DVD><Type>&#x0;</Type><Title>P</Title></DVD><DVD><Type>&#x0;</Type><Title>l</Title></DVD><DVD><Type>&#x0;</Type><Title>Title</Title></DVD><DVD><Type>&#x0;</Type><Title>Pirates of the Caribbean</Title></DVD><DVD><Type>&#x0;</Type><Title>Title</Title></DVD><DVD><Type>&#x0;</Type><Title>Title</Title></DVD></DVDS></Response>
+4/11/2012 7:55:13 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 7:55:13 PM	: Response: 
+4/11/2012 7:55:13 PM	:Session 10 disconnected.
+4/11/2012 7:58:23 PM	Accepted a Connection from: 127.0.0.1:62982.
+4/11/2012 7:58:23 PM	:Client Session 11  Initialized from 127.0.0.1:62982.
+4/11/2012 7:58:23 PM	Awaiting connection on port 5000.
+4/11/2012 7:58:23 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>E</Status></Request>
+4/11/2012 7:58:23 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 7:58:23 PM	: DVD statuses found! 
+4/11/2012 7:58:23 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Status>&#x0;</Status><Title>Underworld 2:Evolution</Title><ID>2</ID></DVD><DVD><Status>&#x0;</Status><Title>Underworld 3:Rise of the Lycans</Title><ID>3</ID></DVD><DVD><Status>&#x0;</Status><Title>Underworld 4:Awakening</Title><ID>4</ID></DVD><DVD><Status>&#x0;</Status><Title>Transformers</Title><ID>5</ID></DVD><DVD><Status>&#x0;</Status><Title>Transformers 2</Title><ID>6</ID></DVD><DVD><Status>&#x0;</Status><Title>Transformers 3</Title><ID>7</ID></DVD><DVD><Status>&#x0;</Status><Title> anchorman</Title><ID>8</ID></DVD><DVD><Status>&#x0;</Status><Title>a</Title><ID>9</ID></DVD><DVD><Status>&#x0;</Status><Title>l</Title><ID>10</ID></DVD><DVD><Status>&#x0;</Status><Title>f</Title><ID>11</ID></DVD><DVD><Status>&#x0;</Status><Title>k</Title><ID>12</ID></DVD><DVD><Status>&#x0;</Status><Title>l</Title><ID>13</ID></DVD><DVD><Status>&#x0;</Status><Title>p</Title><ID>14</ID></DVD><DVD><Status>&#x0;</Status><Title>k</Title><ID>15</ID></DVD><DVD><Status>&#x0;</Status><Title>P</Title><ID>16</ID></DVD><DVD><Status>&#x0;</Status><Title>l</Title><ID>17</ID></DVD><DVD><Status>&#x0;</Status><Title>Title</Title><ID>18</ID></DVD><DVD><Status>&#x0;</Status><Title>Pirates of the Caribbean</Title><ID>19</ID></DVD><DVD><Status>&#x0;</Status><Title>Title</Title><ID>20</ID></DVD><DVD><Status>&#x0;</Status><Title>Title</Title><ID>21</ID></DVD></DVDS></Response>
+4/11/2012 7:58:23 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 7:58:23 PM	: Response: 
+4/11/2012 7:58:23 PM	:Session 11 disconnected.
+4/11/2012 8:03:43 PM	Start System Initialization
+4/11/2012 8:03:43 PM	Server Started.
+4/11/2012 8:03:43 PM	Awaiting connection on port 5000.
+4/11/2012 8:04:10 PM	Accepted a Connection from: 127.0.0.1:63474.
+4/11/2012 8:04:10 PM	:Client Session 1  Initialized from 127.0.0.1:63474.
+4/11/2012 8:04:10 PM	Awaiting connection on port 5000.
+4/11/2012 8:04:10 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>N</Status></Request>
+4/11/2012 8:04:10 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 8:04:11 PM	: DVD statuses found! 
+4/11/2012 8:04:11 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Status>&#x0;</Status><Title>Underworld</Title><ID>1</ID></DVD></DVDS></Response>
+4/11/2012 8:04:11 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 8:04:11 PM	: Response: 
+4/11/2012 8:04:11 PM	:Session 1 disconnected.
+4/11/2012 8:19:17 PM	Accepted a Connection from: 127.0.0.1:64447.
+4/11/2012 8:19:17 PM	:Client Session 2  Initialized from 127.0.0.1:64447.
+4/11/2012 8:19:17 PM	Awaiting connection on port 5000.
+4/11/2012 8:19:19 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>N</Status></Request>
+4/11/2012 8:20:27 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 8:27:49 PM	Start System Initialization
+4/11/2012 8:27:49 PM	Server Started.
+4/11/2012 8:27:49 PM	Awaiting connection on port 5000.
+4/11/2012 8:28:32 PM	Accepted a Connection from: 127.0.0.1:65497.
+4/11/2012 8:28:32 PM	:Client Session 1  Initialized from 127.0.0.1:65497.
+4/11/2012 8:28:32 PM	Awaiting connection on port 5000.
+4/11/2012 8:28:33 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>N</Status></Request>
+4/11/2012 8:28:37 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 8:30:28 PM	: DVD statuses found! 
+4/11/2012 8:31:04 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Status>N</Status><Title>Underworld</Title><ID>1</ID></DVD></DVDS></Response>
+4/11/2012 8:31:16 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 8:31:19 PM	: Response: 
+4/11/2012 8:31:22 PM	:Session 1 disconnected.
+4/11/2012 8:36:43 PM	Start System Initialization
+4/11/2012 8:36:43 PM	Server Started.
+4/11/2012 8:36:43 PM	Awaiting connection on port 5000.
+4/11/2012 8:37:13 PM	Accepted a Connection from: 127.0.0.1:49957.
+4/11/2012 8:37:13 PM	:Client Session 1  Initialized from 127.0.0.1:49957.
+4/11/2012 8:37:13 PM	Awaiting connection on port 5000.
+4/11/2012 8:37:13 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>N</Status></Request>
+4/11/2012 8:37:13 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 8:37:13 PM	: DVD statuses found! 
+4/11/2012 8:37:13 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Status>N</Status><Title>Underworld</Title><ID>1</ID></DVD></DVDS></Response>
+4/11/2012 8:37:13 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 8:37:13 PM	: Response: 
+4/11/2012 8:37:13 PM	:Session 1 disconnected.
+4/11/2012 8:48:43 PM	Accepted a Connection from: 127.0.0.1:50943.
+4/11/2012 8:48:43 PM	:Client Session 2  Initialized from 127.0.0.1:50943.
+4/11/2012 8:48:43 PM	Awaiting connection on port 5000.
+4/11/2012 8:48:43 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>N</Status></Request>
+4/11/2012 8:48:43 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 8:48:43 PM	: DVD statuses found! 
+4/11/2012 8:48:43 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Status>N</Status><Title>Underworld</Title><ID>1</ID></DVD></DVDS></Response>
+4/11/2012 8:48:43 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 8:48:43 PM	: Response: 
+4/11/2012 8:48:43 PM	:Session 2 disconnected.
+4/11/2012 8:50:27 PM	Accepted a Connection from: 127.0.0.1:51081.
+4/11/2012 8:50:27 PM	:Client Session 3  Initialized from 127.0.0.1:51081.
+4/11/2012 8:50:27 PM	Awaiting connection on port 5000.
+4/11/2012 8:50:27 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>N</Status></Request>
+4/11/2012 8:50:27 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 8:50:27 PM	: DVD statuses found! 
+4/11/2012 8:50:27 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Status>N</Status><Title>Underworld</Title><ID>1</ID></DVD></DVDS></Response>
+4/11/2012 8:50:27 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 8:50:27 PM	: Response: 
+4/11/2012 8:50:27 PM	:Session 3 disconnected.
+4/11/2012 8:51:58 PM	Accepted a Connection from: 127.0.0.1:51183.
+4/11/2012 8:51:58 PM	:Client Session 4  Initialized from 127.0.0.1:51183.
+4/11/2012 8:51:58 PM	Awaiting connection on port 5000.
+4/11/2012 8:51:58 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>N</Status></Request>
+4/11/2012 8:51:58 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 8:51:58 PM	: DVD statuses found! 
+4/11/2012 8:51:58 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Status>N</Status><Title>Underworld</Title><ID>1</ID></DVD></DVDS></Response>
+4/11/2012 8:51:58 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 8:51:58 PM	: Response: 
+4/11/2012 8:51:58 PM	:Session 4 disconnected.
+4/11/2012 8:52:38 PM	Accepted a Connection from: 127.0.0.1:51238.
+4/11/2012 8:52:38 PM	:Client Session 5  Initialized from 127.0.0.1:51238.
+4/11/2012 8:52:38 PM	Awaiting connection on port 5000.
+4/11/2012 8:52:38 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchtype</Action><Type>U</Type></Request>
+4/11/2012 8:52:38 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 8:52:38 PM	: DVD types found! 
+4/11/2012 8:52:38 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Type>U</Type><Title>Underworld 4:Awakening</Title></DVD><DVD><Type>U</Type><Title>a</Title></DVD><DVD><Type>U</Type><Title>l</Title></DVD><DVD><Type>U</Type><Title>f</Title></DVD><DVD><Type>U</Type><Title>k</Title></DVD><DVD><Type>U</Type><Title>l</Title></DVD><DVD><Type>U</Type><Title>k</Title></DVD><DVD><Type>U</Type><Title>P</Title></DVD><DVD><Type>U</Type><Title>l</Title></DVD><DVD><Type>U</Type><Title>Title</Title></DVD><DVD><Type>U</Type><Title>Pirates of the Caribbean</Title></DVD><DVD><Type>U</Type><Title>Title</Title></DVD><DVD><Type>U</Type><Title>Title</Title></DVD></DVDS></Response>
+4/11/2012 8:52:38 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 8:52:38 PM	: Response: 
+4/11/2012 8:52:38 PM	:Session 5 disconnected.
+4/11/2012 8:53:22 PM	Accepted a Connection from: 127.0.0.1:51289.
+4/11/2012 8:53:22 PM	:Client Session 6  Initialized from 127.0.0.1:51289.
+4/11/2012 8:53:22 PM	Awaiting connection on port 5000.
+4/11/2012 8:53:57 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>recover</Action><ID>1</ID></Request>
+4/11/2012 8:53:57 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 8:53:57 PM	:Record recovered!DVD ID1recovered
+4/11/2012 8:53:57 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><Message> DVD ID 1 recovered</Message></Response>
+4/11/2012 8:53:57 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 8:53:57 PM	: Response: 
+4/11/2012 8:53:57 PM	:Session 6 disconnected.
+4/11/2012 8:55:02 PM	Accepted a Connection from: 127.0.0.1:51390.
+4/11/2012 8:55:02 PM	:Client Session 7  Initialized from 127.0.0.1:51390.
+4/11/2012 8:55:02 PM	Awaiting connection on port 5000.
+4/11/2012 8:55:02 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>N</Status></Request>
+4/11/2012 8:55:02 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 8:55:02 PM	: DVD statuses found! 
+4/11/2012 8:55:02 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS /></Response>
+4/11/2012 8:55:02 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 8:55:02 PM	: Response: 
+4/11/2012 8:55:02 PM	:Session 7 disconnected.
+4/11/2012 9:01:02 PM	Start System Initialization
+4/11/2012 9:01:02 PM	Server Started.
+4/11/2012 9:01:02 PM	Awaiting connection on port 5000.
+4/11/2012 9:01:58 PM	Accepted a Connection from: 127.0.0.1:51802.
+4/11/2012 9:01:58 PM	:Client Session 1  Initialized from 127.0.0.1:51802.
+4/11/2012 9:01:58 PM	Awaiting connection on port 5000.
+4/11/2012 9:01:58 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>selectID</Action><ID>23</ID></Request>
+4/11/2012 9:01:58 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:01:58 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:01:58 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:01:58 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:03:24 PM	Start System Initialization
+4/11/2012 9:03:24 PM	Server Started.
+4/11/2012 9:03:24 PM	Awaiting connection on port 5000.
+4/11/2012 9:04:15 PM	Accepted a Connection from: 127.0.0.1:51939.
+4/11/2012 9:04:15 PM	:Client Session 1  Initialized from 127.0.0.1:51939.
+4/11/2012 9:04:15 PM	Awaiting connection on port 5000.
+4/11/2012 9:04:15 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>E</Status></Request>
+4/11/2012 9:04:15 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:04:15 PM	: DVD statuses found! 
+4/11/2012 9:04:15 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Status>E</Status><Title>Underworld</Title><ID>1</ID></DVD><DVD><Status>E</Status><Title>Underworld 2:Evolution</Title><ID>2</ID></DVD><DVD><Status>E</Status><Title>Underworld 3:Rise of the Lycans</Title><ID>3</ID></DVD><DVD><Status>E</Status><Title>Underworld 4:Awakening</Title><ID>4</ID></DVD><DVD><Status>E</Status><Title>Transformers</Title><ID>5</ID></DVD><DVD><Status>E</Status><Title>Transformers 2</Title><ID>6</ID></DVD><DVD><Status>E</Status><Title>Transformers 3</Title><ID>7</ID></DVD><DVD><Status>E</Status><Title> anchorman</Title><ID>8</ID></DVD><DVD><Status>E</Status><Title>a</Title><ID>9</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>10</ID></DVD><DVD><Status>E</Status><Title>f</Title><ID>11</ID></DVD><DVD><Status>E</Status><Title>k</Title><ID>12</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>13</ID></DVD><DVD><Status>E</Status><Title>p</Title><ID>14</ID></DVD><DVD><Status>E</Status><Title>k</Title><ID>15</ID></DVD><DVD><Status>E</Status><Title>P</Title><ID>16</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>17</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>18</ID></DVD><DVD><Status>E</Status><Title>Pirates of the Caribbean</Title><ID>19</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>20</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>21</ID></DVD></DVDS></Response>
+4/11/2012 9:04:15 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 9:04:15 PM	: Response: 
+4/11/2012 9:04:15 PM	:Session 1 disconnected.
+4/11/2012 9:05:31 PM	Accepted a Connection from: 127.0.0.1:52017.
+4/11/2012 9:05:31 PM	:Client Session 2  Initialized from 127.0.0.1:52017.
+4/11/2012 9:05:31 PM	Awaiting connection on port 5000.
+4/11/2012 9:05:42 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>temp</Action><ID>21</ID></Request>
+4/11/2012 9:05:42 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:05:42 PM	:Record deleted!DVD ID21deleted
+4/11/2012 9:05:42 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><Message> DVD ID 21 deleted </Message></Response>
+4/11/2012 9:05:42 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 9:05:42 PM	: Response: 
+4/11/2012 9:05:42 PM	:Session 2 disconnected.
+4/11/2012 9:06:03 PM	Accepted a Connection from: 127.0.0.1:52050.
+4/11/2012 9:06:03 PM	:Client Session 3  Initialized from 127.0.0.1:52050.
+4/11/2012 9:06:03 PM	Awaiting connection on port 5000.
+4/11/2012 9:06:28 PM	Accepted a Connection from: 127.0.0.1:52077.
+4/11/2012 9:06:28 PM	:Client Session 4  Initialized from 127.0.0.1:52077.
+4/11/2012 9:06:28 PM	Awaiting connection on port 5000.
+4/11/2012 9:06:28 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>delete</Action><ID>21</ID></Request>
+4/11/2012 9:06:28 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:06:28 PM	:Record purged!DVD ID21purged
+4/11/2012 9:06:28 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><Message> DVD ID 21 purged </Message></Response>
+4/11/2012 9:06:28 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 9:06:28 PM	: Response: 
+4/11/2012 9:06:28 PM	:Session 4 disconnected.
+4/11/2012 9:07:14 PM	Accepted a Connection from: 127.0.0.1:52124.
+4/11/2012 9:07:14 PM	:Client Session 5  Initialized from 127.0.0.1:52124.
+4/11/2012 9:07:14 PM	Awaiting connection on port 5000.
+4/11/2012 9:07:14 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>E</Status></Request>
+4/11/2012 9:07:14 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:07:14 PM	: DVD statuses found! 
+4/11/2012 9:07:14 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Status>E</Status><Title>Underworld</Title><ID>1</ID></DVD><DVD><Status>E</Status><Title>Underworld 2:Evolution</Title><ID>2</ID></DVD><DVD><Status>E</Status><Title>Underworld 3:Rise of the Lycans</Title><ID>3</ID></DVD><DVD><Status>E</Status><Title>Underworld 4:Awakening</Title><ID>4</ID></DVD><DVD><Status>E</Status><Title>Transformers</Title><ID>5</ID></DVD><DVD><Status>E</Status><Title>Transformers 2</Title><ID>6</ID></DVD><DVD><Status>E</Status><Title>Transformers 3</Title><ID>7</ID></DVD><DVD><Status>E</Status><Title> anchorman</Title><ID>8</ID></DVD><DVD><Status>E</Status><Title>a</Title><ID>9</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>10</ID></DVD><DVD><Status>E</Status><Title>f</Title><ID>11</ID></DVD><DVD><Status>E</Status><Title>k</Title><ID>12</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>13</ID></DVD><DVD><Status>E</Status><Title>p</Title><ID>14</ID></DVD><DVD><Status>E</Status><Title>k</Title><ID>15</ID></DVD><DVD><Status>E</Status><Title>P</Title><ID>16</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>17</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>18</ID></DVD><DVD><Status>E</Status><Title>Pirates of the Caribbean</Title><ID>19</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>20</ID></DVD></DVDS></Response>
+4/11/2012 9:07:14 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 9:07:14 PM	: Response: 
+4/11/2012 9:07:14 PM	:Session 5 disconnected.
+4/11/2012 9:07:47 PM	:client disconnected without shutting down server first. Session: 3
+4/11/2012 9:07:47 PM	: request: 
+4/11/2012 9:07:47 PM	:XML Parsing Error: Root element is missing.
+4/11/2012 9:07:47 PM	: Response: 
+4/11/2012 9:10:05 PM	Start System Initialization
+4/11/2012 9:10:05 PM	Server Started.
+4/11/2012 9:10:05 PM	Awaiting connection on port 5000.
+4/11/2012 9:10:44 PM	Accepted a Connection from: 127.0.0.1:52332.
+4/11/2012 9:10:44 PM	:Client Session 1  Initialized from 127.0.0.1:52332.
+4/11/2012 9:10:44 PM	Awaiting connection on port 5000.
+4/11/2012 9:10:44 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>E</Status></Request>
+4/11/2012 9:10:44 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:10:44 PM	: DVD statuses found! 
+4/11/2012 9:10:44 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Status>E</Status><Title>Underworld</Title><ID>1</ID></DVD><DVD><Status>E</Status><Title>Underworld 2:Evolution</Title><ID>2</ID></DVD><DVD><Status>E</Status><Title>Underworld 3:Rise of the Lycans</Title><ID>3</ID></DVD><DVD><Status>E</Status><Title>Underworld 4:Awakening</Title><ID>4</ID></DVD><DVD><Status>E</Status><Title>Transformers</Title><ID>5</ID></DVD><DVD><Status>E</Status><Title>Transformers 2</Title><ID>6</ID></DVD><DVD><Status>E</Status><Title>Transformers 3</Title><ID>7</ID></DVD><DVD><Status>E</Status><Title> anchorman</Title><ID>8</ID></DVD><DVD><Status>E</Status><Title>a</Title><ID>9</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>10</ID></DVD><DVD><Status>E</Status><Title>f</Title><ID>11</ID></DVD><DVD><Status>E</Status><Title>k</Title><ID>12</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>13</ID></DVD><DVD><Status>E</Status><Title>p</Title><ID>14</ID></DVD><DVD><Status>E</Status><Title>k</Title><ID>15</ID></DVD><DVD><Status>E</Status><Title>P</Title><ID>16</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>17</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>18</ID></DVD><DVD><Status>E</Status><Title>Pirates of the Caribbean</Title><ID>19</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>20</ID></DVD></DVDS></Response>
+4/11/2012 9:10:44 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 9:10:44 PM	: Response: 
+4/11/2012 9:10:44 PM	:Session 1 disconnected.
+4/11/2012 9:13:06 PM	Accepted a Connection from: 127.0.0.1:52474.
+4/11/2012 9:13:06 PM	:Client Session 2  Initialized from 127.0.0.1:52474.
+4/11/2012 9:13:06 PM	Awaiting connection on port 5000.
+4/11/2012 9:13:06 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>E</Status></Request>
+4/11/2012 9:13:06 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:13:06 PM	: DVD statuses found! 
+4/11/2012 9:13:06 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Status>E</Status><Title>Underworld</Title><ID>1</ID></DVD><DVD><Status>E</Status><Title>Underworld 2:Evolution</Title><ID>2</ID></DVD><DVD><Status>E</Status><Title>Underworld 3:Rise of the Lycans</Title><ID>3</ID></DVD><DVD><Status>E</Status><Title>Underworld 4:Awakening</Title><ID>4</ID></DVD><DVD><Status>E</Status><Title>Transformers</Title><ID>5</ID></DVD><DVD><Status>E</Status><Title>Transformers 2</Title><ID>6</ID></DVD><DVD><Status>E</Status><Title>Transformers 3</Title><ID>7</ID></DVD><DVD><Status>E</Status><Title> anchorman</Title><ID>8</ID></DVD><DVD><Status>E</Status><Title>a</Title><ID>9</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>10</ID></DVD><DVD><Status>E</Status><Title>f</Title><ID>11</ID></DVD><DVD><Status>E</Status><Title>k</Title><ID>12</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>13</ID></DVD><DVD><Status>E</Status><Title>p</Title><ID>14</ID></DVD><DVD><Status>E</Status><Title>k</Title><ID>15</ID></DVD><DVD><Status>E</Status><Title>P</Title><ID>16</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>17</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>18</ID></DVD><DVD><Status>E</Status><Title>Pirates of the Caribbean</Title><ID>19</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>20</ID></DVD></DVDS></Response>
+4/11/2012 9:13:06 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 9:13:06 PM	: Response: 
+4/11/2012 9:13:06 PM	:Session 2 disconnected.
+4/11/2012 9:14:28 PM	Accepted a Connection from: 127.0.0.1:52559.
+4/11/2012 9:14:28 PM	:Client Session 3  Initialized from 127.0.0.1:52559.
+4/11/2012 9:14:28 PM	Awaiting connection on port 5000.
+4/11/2012 9:14:28 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>E</Status></Request>
+4/11/2012 9:14:28 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:14:28 PM	: DVD statuses found! 
+4/11/2012 9:14:28 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Status>E</Status><Title>Underworld</Title><ID>1</ID></DVD><DVD><Status>E</Status><Title>Underworld 2:Evolution</Title><ID>2</ID></DVD><DVD><Status>E</Status><Title>Underworld 3:Rise of the Lycans</Title><ID>3</ID></DVD><DVD><Status>E</Status><Title>Underworld 4:Awakening</Title><ID>4</ID></DVD><DVD><Status>E</Status><Title>Transformers</Title><ID>5</ID></DVD><DVD><Status>E</Status><Title>Transformers 2</Title><ID>6</ID></DVD><DVD><Status>E</Status><Title>Transformers 3</Title><ID>7</ID></DVD><DVD><Status>E</Status><Title> anchorman</Title><ID>8</ID></DVD><DVD><Status>E</Status><Title>a</Title><ID>9</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>10</ID></DVD><DVD><Status>E</Status><Title>f</Title><ID>11</ID></DVD><DVD><Status>E</Status><Title>k</Title><ID>12</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>13</ID></DVD><DVD><Status>E</Status><Title>p</Title><ID>14</ID></DVD><DVD><Status>E</Status><Title>k</Title><ID>15</ID></DVD><DVD><Status>E</Status><Title>P</Title><ID>16</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>17</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>18</ID></DVD><DVD><Status>E</Status><Title>Pirates of the Caribbean</Title><ID>19</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>20</ID></DVD></DVDS></Response>
+4/11/2012 9:14:28 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 9:14:28 PM	: Response: 
+4/11/2012 9:14:28 PM	:Session 3 disconnected.
+4/11/2012 9:18:51 PM	Accepted a Connection from: 127.0.0.1:52820.
+4/11/2012 9:18:51 PM	:Client Session 4  Initialized from 127.0.0.1:52820.
+4/11/2012 9:18:51 PM	Awaiting connection on port 5000.
+4/11/2012 9:18:51 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>E</Status></Request>
+4/11/2012 9:18:51 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:18:51 PM	: DVD statuses found! 
+4/11/2012 9:18:51 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Status>E</Status><Title>Underworld</Title><ID>1</ID></DVD><DVD><Status>E</Status><Title>Underworld 2:Evolution</Title><ID>2</ID></DVD><DVD><Status>E</Status><Title>Underworld 3:Rise of the Lycans</Title><ID>3</ID></DVD><DVD><Status>E</Status><Title>Underworld 4:Awakening</Title><ID>4</ID></DVD><DVD><Status>E</Status><Title>Transformers</Title><ID>5</ID></DVD><DVD><Status>E</Status><Title>Transformers 2</Title><ID>6</ID></DVD><DVD><Status>E</Status><Title>Transformers 3</Title><ID>7</ID></DVD><DVD><Status>E</Status><Title> anchorman</Title><ID>8</ID></DVD><DVD><Status>E</Status><Title>a</Title><ID>9</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>10</ID></DVD><DVD><Status>E</Status><Title>f</Title><ID>11</ID></DVD><DVD><Status>E</Status><Title>k</Title><ID>12</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>13</ID></DVD><DVD><Status>E</Status><Title>p</Title><ID>14</ID></DVD><DVD><Status>E</Status><Title>k</Title><ID>15</ID></DVD><DVD><Status>E</Status><Title>P</Title><ID>16</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>17</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>18</ID></DVD><DVD><Status>E</Status><Title>Pirates of the Caribbean</Title><ID>19</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>20</ID></DVD></DVDS></Response>
+4/11/2012 9:18:51 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 9:18:51 PM	: Response: 
+4/11/2012 9:18:51 PM	:Session 4 disconnected.
+4/11/2012 9:19:42 PM	Accepted a Connection from: 127.0.0.1:52872.
+4/11/2012 9:19:42 PM	:Client Session 5  Initialized from 127.0.0.1:52872.
+4/11/2012 9:19:42 PM	Awaiting connection on port 5000.
+4/11/2012 9:19:42 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>E</Status></Request>
+4/11/2012 9:19:42 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:19:42 PM	: DVD statuses found! 
+4/11/2012 9:19:42 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Status>E</Status><Title>Underworld</Title><ID>1</ID></DVD><DVD><Status>E</Status><Title>Underworld 2:Evolution</Title><ID>2</ID></DVD><DVD><Status>E</Status><Title>Underworld 3:Rise of the Lycans</Title><ID>3</ID></DVD><DVD><Status>E</Status><Title>Underworld 4:Awakening</Title><ID>4</ID></DVD><DVD><Status>E</Status><Title>Transformers</Title><ID>5</ID></DVD><DVD><Status>E</Status><Title>Transformers 2</Title><ID>6</ID></DVD><DVD><Status>E</Status><Title>Transformers 3</Title><ID>7</ID></DVD><DVD><Status>E</Status><Title> anchorman</Title><ID>8</ID></DVD><DVD><Status>E</Status><Title>a</Title><ID>9</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>10</ID></DVD><DVD><Status>E</Status><Title>f</Title><ID>11</ID></DVD><DVD><Status>E</Status><Title>k</Title><ID>12</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>13</ID></DVD><DVD><Status>E</Status><Title>p</Title><ID>14</ID></DVD><DVD><Status>E</Status><Title>k</Title><ID>15</ID></DVD><DVD><Status>E</Status><Title>P</Title><ID>16</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>17</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>18</ID></DVD><DVD><Status>E</Status><Title>Pirates of the Caribbean</Title><ID>19</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>20</ID></DVD></DVDS></Response>
+4/11/2012 9:19:42 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 9:19:42 PM	: Response: 
+4/11/2012 9:19:42 PM	:Session 5 disconnected.
+4/11/2012 9:20:34 PM	Accepted a Connection from: 127.0.0.1:52926.
+4/11/2012 9:20:34 PM	:Client Session 6  Initialized from 127.0.0.1:52926.
+4/11/2012 9:20:34 PM	Awaiting connection on port 5000.
+4/11/2012 9:20:34 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchstatus</Action><Status>E</Status></Request>
+4/11/2012 9:20:34 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:20:34 PM	: DVD statuses found! 
+4/11/2012 9:20:34 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Status>E</Status><Title>Underworld</Title><ID>1</ID></DVD><DVD><Status>E</Status><Title>Underworld 2:Evolution</Title><ID>2</ID></DVD><DVD><Status>E</Status><Title>Underworld 3:Rise of the Lycans</Title><ID>3</ID></DVD><DVD><Status>E</Status><Title>Underworld 4:Awakening</Title><ID>4</ID></DVD><DVD><Status>E</Status><Title>Transformers</Title><ID>5</ID></DVD><DVD><Status>E</Status><Title>Transformers 2</Title><ID>6</ID></DVD><DVD><Status>E</Status><Title>Transformers 3</Title><ID>7</ID></DVD><DVD><Status>E</Status><Title> anchorman</Title><ID>8</ID></DVD><DVD><Status>E</Status><Title>a</Title><ID>9</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>10</ID></DVD><DVD><Status>E</Status><Title>f</Title><ID>11</ID></DVD><DVD><Status>E</Status><Title>k</Title><ID>12</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>13</ID></DVD><DVD><Status>E</Status><Title>p</Title><ID>14</ID></DVD><DVD><Status>E</Status><Title>k</Title><ID>15</ID></DVD><DVD><Status>E</Status><Title>P</Title><ID>16</ID></DVD><DVD><Status>E</Status><Title>l</Title><ID>17</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>18</ID></DVD><DVD><Status>E</Status><Title>Pirates of the Caribbean</Title><ID>19</ID></DVD><DVD><Status>E</Status><Title>Title</Title><ID>20</ID></DVD></DVDS></Response>
+4/11/2012 9:20:34 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 9:20:34 PM	: Response: 
+4/11/2012 9:20:34 PM	:Session 6 disconnected.
+4/11/2012 9:21:13 PM	Accepted a Connection from: 127.0.0.1:52966.
+4/11/2012 9:21:13 PM	:Client Session 7  Initialized from 127.0.0.1:52966.
+4/11/2012 9:21:13 PM	Awaiting connection on port 5000.
+4/11/2012 9:21:13 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchruntime</Action><Runtime>90</Runtime></Request>
+4/11/2012 9:21:13 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:21:13 PM	: Runtimes found! 
+4/11/2012 9:21:13 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Runtime>90</Runtime><Title> anchorman</Title></DVD><DVD><Runtime>90</Runtime><Title>a</Title></DVD></DVDS></Response>
+4/11/2012 9:21:13 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 9:21:13 PM	: Response: 
+4/11/2012 9:21:13 PM	:Session 7 disconnected.
+4/11/2012 9:22:03 PM	Start System Initialization
+4/11/2012 9:22:41 PM	Server Started.
+4/11/2012 9:22:41 PM	Awaiting connection on port 5000.
+4/11/2012 9:26:14 PM	Start System Initialization
+4/11/2012 9:26:19 PM	Server Started.
+4/11/2012 9:26:19 PM	Awaiting connection on port 5000.
+4/11/2012 9:26:50 PM	Accepted a Connection from: 127.0.0.1:53691.
+4/11/2012 9:26:50 PM	:Client Session 1  Initialized from 127.0.0.1:53691.
+4/11/2012 9:26:50 PM	Awaiting connection on port 5000.
+4/11/2012 9:26:50 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>selectID</Action><ID>1</ID></Request>
+4/11/2012 9:26:50 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:26:50 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:26:50 PM	:record found! 
+4/11/2012 9:26:50 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><ID>1</ID><Title>Underworld</Title><First>Kate</First><Last>Beckinsale</Last><First2>Scott</First2><Last2>Speedman</Last2><Company>Screen Gems</Company><Genre>12</Genre><Description>Fantasy</Description><Runtime>121</Runtime><Type>D</Type><Status>E</Status></Response>
+4/11/2012 9:26:50 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 9:26:50 PM	: Response: 
+4/11/2012 9:26:50 PM	:Session 1 disconnected.
+4/11/2012 9:27:16 PM	Accepted a Connection from: 127.0.0.1:53771.
+4/11/2012 9:27:16 PM	:Client Session 2  Initialized from 127.0.0.1:53771.
+4/11/2012 9:27:16 PM	Awaiting connection on port 5000.
+4/11/2012 9:27:16 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>selectID</Action><ID>22</ID></Request>
+4/11/2012 9:27:16 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:27:16 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:27:16 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:27:16 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:30:48 PM	Start System Initialization
+4/11/2012 9:30:48 PM	Server Started.
+4/11/2012 9:30:48 PM	Awaiting connection on port 5000.
+4/11/2012 9:31:42 PM	Accepted a Connection from: 127.0.0.1:54157.
+4/11/2012 9:31:42 PM	:Client Session 1  Initialized from 127.0.0.1:54157.
+4/11/2012 9:31:42 PM	Awaiting connection on port 5000.
+4/11/2012 9:31:42 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>selectID</Action><ID>22</ID></Request>
+4/11/2012 9:31:42 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:32:22 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:33:33 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:34:55 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:38:19 PM	Start System Initialization
+4/11/2012 9:38:19 PM	Server Started.
+4/11/2012 9:38:19 PM	Awaiting connection on port 5000.
+4/11/2012 9:38:50 PM	Accepted a Connection from: 127.0.0.1:54730.
+4/11/2012 9:38:50 PM	:Client Session 1  Initialized from 127.0.0.1:54730.
+4/11/2012 9:38:50 PM	Awaiting connection on port 5000.
+4/11/2012 9:38:50 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>selectID</Action><ID>22</ID></Request>
+4/11/2012 9:38:50 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:39:00 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:39:07 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:40:22 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=N:\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/11/2012 9:40:49 PM	:no record found! 
+4/11/2012 9:41:14 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>-1</ErrorCode><Message> could not find DVD information. Please try again </Message></Response>
+4/11/2012 9:41:15 PM	: request: <Request><Action>disconnect</Action></Request>
+4/11/2012 9:41:23 PM	: Response: 
+4/11/2012 9:41:27 PM	:Session 1 disconnected.
+4/12/2012 12:13:49 PM	Start System Initialization
+4/12/2012 12:13:49 PM	Server Started.
+4/12/2012 12:13:49 PM	Awaiting connection on port 5000.
+4/12/2012 12:51:16 PM	Accepted a Connection from: 127.0.0.1:58035.
+4/12/2012 12:51:16 PM	:Client Session 1  Initialized from 127.0.0.1:58035.
+4/12/2012 12:51:16 PM	Awaiting connection on port 5000.
+4/12/2012 12:51:16 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>getgenre</Action></Request>
+4/12/2012 12:51:16 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/12/2012 12:51:16 PM	: genres found! 
+4/12/2012 12:51:16 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><Genres><Genre><ID>0</ID><Description>Unknown</Description></Genre><Genre><ID>1</ID><Description>Action</Description></Genre><Genre><ID>2</ID><Description>Adventure</Description></Genre><Genre><ID>3</ID><Description>Animation</Description></Genre><Genre><ID>4</ID><Description>Comedy</Description></Genre><Genre><ID>5</ID><Description>Comic Book</Description></Genre><Genre><ID>6</ID><Description>Crime</Description></Genre><Genre><ID>7</ID><Description>Dance</Description></Genre><Genre><ID>8</ID><Description>Disaster</Description></Genre><Genre><ID>9</ID><Description>Documentary</Description></Genre><Genre><ID>10</ID><Description>Drama</Description></Genre><Genre><ID>11</ID><Description>Epic</Description></Genre><Genre><ID>12</ID><Description>Fantasy</Description></Genre><Genre><ID>13</ID><Description>Game Show</Description></Genre><Genre><ID>14</ID><Description>Gangster</Description></Genre><Genre><ID>15</ID><Description>Historical</Description></Genre><Genre><ID>16</ID><Description>Horror</Description></Genre><Genre><ID>17</ID><Description>Musical</Description></Genre><Genre><ID>18</ID><Description>Mystery</Description></Genre><Genre><ID>19</ID><Description>Myth</Description></Genre><Genre><ID>20</ID><Description>News</Description></Genre><Genre><ID>21</ID><Description>Reality TV</Description></Genre><Genre><ID>22</ID><Description>Romance</Description></Genre><Genre><ID>23</ID><Description>Science Fiction</Description></Genre><Genre><ID>24</ID><Description>Sports</Description></Genre><Genre><ID>25</ID><Description>Suspense</Description></Genre><Genre><ID>26</ID><Description>Thriller</Description></Genre><Genre><ID>27</ID><Description>TV Show</Description></Genre><Genre><ID>28</ID><Description>War</Description></Genre><Genre><ID>29</ID><Description>Western</Description></Genre></Genres></Response>
+4/12/2012 12:51:16 PM	: request: <Request><Action>disconnect</Action></Request>
+4/12/2012 12:51:16 PM	: Response: 
+4/12/2012 12:51:16 PM	:Session 1 disconnected.
+4/12/2012 1:19:04 PM	Accepted a Connection from: 127.0.0.1:60239.
+4/12/2012 1:19:04 PM	:Client Session 2  Initialized from 127.0.0.1:60239.
+4/12/2012 1:19:04 PM	Awaiting connection on port 5000.
+4/12/2012 1:19:21 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>addall</Action><Title>Title</Title><First>First</First><Last>Last</Last><First2>First2</First2><Last2>Last2</Last2><Company>Company</Company><Genre>0</Genre><Runtime>0</Runtime><Type>U</Type><Status>E</Status></Request>
+4/12/2012 1:19:21 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/12/2012 1:19:21 PM	:Record Added!  New ID: 22
+4/12/2012 1:19:21 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><ID>22</ID></Response>
+4/12/2012 1:19:21 PM	: request: <Request><Action>disconnect</Action></Request>
+4/12/2012 1:19:21 PM	: Response: 
+4/12/2012 1:19:21 PM	:Session 2 disconnected.
+4/12/2012 10:37:32 PM	Start System Initialization
+4/12/2012 10:37:32 PM	Server Started.
+4/12/2012 10:37:32 PM	Awaiting connection on port 5000.
+4/12/2012 10:43:08 PM	Start System Initialization
+4/12/2012 10:43:08 PM	Server Started.
+4/12/2012 10:43:08 PM	Awaiting connection on port 5000.
+4/12/2012 10:48:07 PM	Start System Initialization
+4/12/2012 10:48:07 PM	Server Started.
+4/12/2012 10:48:07 PM	Awaiting connection on port 5000.
+4/12/2012 10:48:29 PM	Accepted a Connection from: 127.0.0.1:59775.
+4/12/2012 10:48:29 PM	:Client Session 1  Initialized from 127.0.0.1:59775.
+4/12/2012 10:48:29 PM	Awaiting connection on port 5000.
+4/12/2012 10:50:28 PM	Start System Initialization
+4/12/2012 10:50:28 PM	Server Started.
+4/12/2012 10:50:28 PM	Awaiting connection on port 5000.
+4/12/2012 10:50:42 PM	Accepted a Connection from: 127.0.0.1:59947.
+4/12/2012 10:50:42 PM	:Client Session 1  Initialized from 127.0.0.1:59947.
+4/12/2012 10:50:42 PM	Awaiting connection on port 5000.
+4/12/2012 10:52:42 PM	: request: 
+4/12/2012 10:52:42 PM	:General Error: Value cannot be null.
+Parameter name: s
+4/12/2012 10:52:42 PM	: Response: 
+4/12/2012 10:52:42 PM	:client disconnected without shutting down server first. Session: 1
+4/12/2012 10:52:42 PM	: request: 
+4/12/2012 10:52:42 PM	:XML Parsing Error: Root element is missing.
+4/12/2012 10:52:42 PM	: Response: 
+4/13/2012 8:11:31 AM	Start System Initialization
+4/13/2012 8:11:31 AM	Server Started.
+4/13/2012 8:11:31 AM	Awaiting connection on port 5000.
+4/13/2012 8:14:10 AM	Accepted a Connection from: 127.0.0.1:51425.
+4/13/2012 8:14:10 AM	:Client Session 1  Initialized from 127.0.0.1:51425.
+4/13/2012 8:14:10 AM	Awaiting connection on port 5000.
+4/13/2012 8:14:46 AM	: request: <Request><Action>disconnect</Action></Request>
+4/13/2012 8:14:46 AM	: Response: 
+4/13/2012 8:14:46 AM	:Session 1 disconnected.
+4/13/2012 8:14:47 AM	Accepted a Connection from: 127.0.0.1:51466.
+4/13/2012 8:14:47 AM	:Client Session 2  Initialized from 127.0.0.1:51466.
+4/13/2012 8:14:47 AM	Awaiting connection on port 5000.
+4/14/2012 8:04:51 PM	Start System Initialization
+4/14/2012 8:04:51 PM	Server Started.
+4/14/2012 8:04:51 PM	Awaiting connection on port 5000.
+4/14/2012 8:05:03 PM	Accepted a Connection from: 127.0.0.1:50409.
+4/14/2012 8:05:03 PM	:Client Session 1  Initialized from 127.0.0.1:50409.
+4/14/2012 8:05:03 PM	Awaiting connection on port 5000.
+4/14/2012 8:08:45 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>temp</Action><ID>1</ID></Request>
+4/14/2012 8:08:45 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/14/2012 8:08:46 PM	:Record deleted!DVD ID1deleted
+4/14/2012 8:08:46 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><Message> DVD ID 1 deleted </Message></Response>
+4/14/2012 8:08:46 PM	: request: <Request><Action>disconnect</Action></Request>
+4/14/2012 8:08:46 PM	: Response: 
+4/14/2012 8:08:46 PM	:Session 1 disconnected.
+4/14/2012 8:19:43 PM	Accepted a Connection from: 127.0.0.1:51512.
+4/14/2012 8:19:43 PM	:Client Session 2  Initialized from 127.0.0.1:51512.
+4/14/2012 8:19:43 PM	Awaiting connection on port 5000.
+4/14/2012 8:19:55 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>recover</Action><ID>1</ID></Request>
+4/14/2012 8:19:55 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/14/2012 8:19:56 PM	:Record recovered!DVD ID1recovered
+4/14/2012 8:19:56 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><Message> DVD ID 1 recovered</Message></Response>
+4/14/2012 8:19:56 PM	: request: <Request><Action>disconnect</Action></Request>
+4/14/2012 8:19:56 PM	: Response: 
+4/14/2012 8:19:56 PM	:Session 2 disconnected.
+4/14/2012 8:32:33 PM	Accepted a Connection from: 127.0.0.1:52423.
+4/14/2012 8:32:33 PM	:Client Session 3  Initialized from 127.0.0.1:52423.
+4/14/2012 8:32:33 PM	Awaiting connection on port 5000.
+4/14/2012 8:42:44 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchtitle</Action><Title>Star Wars</Title></Request>
+4/14/2012 8:42:44 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/14/2012 8:42:44 PM	: titles found! 
+4/14/2012 8:42:44 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS /></Response>
+4/14/2012 8:42:44 PM	: request: <Request><Action>disconnect</Action></Request>
+4/14/2012 8:42:44 PM	: Response: 
+4/14/2012 8:42:44 PM	:Session 3 disconnected.
+4/14/2012 9:07:53 PM	Accepted a Connection from: 127.0.0.1:55051.
+4/14/2012 9:07:53 PM	:Client Session 4  Initialized from 127.0.0.1:55051.
+4/14/2012 9:07:53 PM	Awaiting connection on port 5000.
+4/14/2012 9:25:25 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchruntime</Action><Runtime>50</Runtime></Request>
+4/14/2012 9:25:25 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/14/2012 9:25:25 PM	: Runtimes found! 
+4/14/2012 9:25:25 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS /></Response>
+4/14/2012 9:25:25 PM	: request: <Request><Action>disconnect</Action></Request>
+4/14/2012 9:25:25 PM	: Response: 
+4/14/2012 9:25:25 PM	:Session 4 disconnected.
+4/14/2012 9:33:36 PM	Accepted a Connection from: 127.0.0.1:56947.
+4/14/2012 9:33:36 PM	:Client Session 5  Initialized from 127.0.0.1:56947.
+4/14/2012 9:33:36 PM	Awaiting connection on port 5000.
+4/14/2012 9:49:43 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>selectID</Action><ID>1</ID></Request>
+4/14/2012 9:50:01 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/14/2012 9:50:15 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/14/2012 9:50:33 PM	:record found! 
+4/14/2012 9:50:36 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><ID>1</ID><Title>Underworld</Title><First>Kate</First><Last>Beckinsale</Last><First2>Scott</First2><Last2>Speedman</Last2><Company>Screen Gems</Company><Genre>12</Genre><Description>Fantasy</Description><Runtime>121</Runtime><Type>D</Type><Status>E</Status></Response>
+4/14/2012 9:50:37 PM	: request: <Request><Action>disconnect</Action></Request>
+4/14/2012 9:50:39 PM	: Response: 
+4/14/2012 9:50:40 PM	:Session 5 disconnected.
+4/14/2012 9:52:40 PM	Accepted a Connection from: 127.0.0.1:58275.
+4/14/2012 9:52:40 PM	:Client Session 6  Initialized from 127.0.0.1:58275.
+4/14/2012 9:52:40 PM	Awaiting connection on port 5000.
+4/14/2012 9:52:40 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>getgenre</Action></Request>
+4/14/2012 9:52:40 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/14/2012 9:52:40 PM	: genres found! 
+4/14/2012 9:52:40 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><Genres><Genre><ID>0</ID><Description>Unknown</Description></Genre><Genre><ID>1</ID><Description>Action</Description></Genre><Genre><ID>2</ID><Description>Adventure</Description></Genre><Genre><ID>3</ID><Description>Animation</Description></Genre><Genre><ID>4</ID><Description>Comedy</Description></Genre><Genre><ID>5</ID><Description>Comic Book</Description></Genre><Genre><ID>6</ID><Description>Crime</Description></Genre><Genre><ID>7</ID><Description>Dance</Description></Genre><Genre><ID>8</ID><Description>Disaster</Description></Genre><Genre><ID>9</ID><Description>Documentary</Description></Genre><Genre><ID>10</ID><Description>Drama</Description></Genre><Genre><ID>11</ID><Description>Epic</Description></Genre><Genre><ID>12</ID><Description>Fantasy</Description></Genre><Genre><ID>13</ID><Description>Game Show</Description></Genre><Genre><ID>14</ID><Description>Gangster</Description></Genre><Genre><ID>15</ID><Description>Historical</Description></Genre><Genre><ID>16</ID><Description>Horror</Description></Genre><Genre><ID>17</ID><Description>Musical</Description></Genre><Genre><ID>18</ID><Description>Mystery</Description></Genre><Genre><ID>19</ID><Description>Myth</Description></Genre><Genre><ID>20</ID><Description>News</Description></Genre><Genre><ID>21</ID><Description>Reality TV</Description></Genre><Genre><ID>22</ID><Description>Romance</Description></Genre><Genre><ID>23</ID><Description>Science Fiction</Description></Genre><Genre><ID>24</ID><Description>Sports</Description></Genre><Genre><ID>25</ID><Description>Suspense</Description></Genre><Genre><ID>26</ID><Description>Thriller</Description></Genre><Genre><ID>27</ID><Description>TV Show</Description></Genre><Genre><ID>28</ID><Description>War</Description></Genre><Genre><ID>29</ID><Description>Western</Description></Genre></Genres></Response>
+4/14/2012 9:52:40 PM	: request: <Request><Action>disconnect</Action></Request>
+4/14/2012 9:52:40 PM	: Response: 
+4/14/2012 9:52:40 PM	:Session 6 disconnected.
+4/14/2012 10:28:26 PM	Accepted a Connection from: 127.0.0.1:60905.
+4/14/2012 10:28:26 PM	:Client Session 7  Initialized from 127.0.0.1:60905.
+4/14/2012 10:28:26 PM	Awaiting connection on port 5000.
+4/14/2012 10:28:30 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchgenre</Action><Genre>1</Genre></Request>
+4/14/2012 10:28:30 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/14/2012 10:28:30 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/14/2012 10:28:30 PM	: movie genres found! 
+4/14/2012 10:28:30 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Description>Action</Description><Title>Transformers</Title></DVD><DVD><Description>Action</Description><Title>Transformers 3</Title></DVD><DVD><Description>Action</Description><Title>a</Title></DVD><DVD><Description>Action</Description><Title>l</Title></DVD><DVD><Description>Action</Description><Title>f</Title></DVD><DVD><Description>Action</Description><Title>p</Title></DVD><DVD><Description>Action</Description><Title>k</Title></DVD><DVD><Description>Action</Description><Title>P</Title></DVD></DVDS></Response>
+4/14/2012 10:28:30 PM	: request: <Request><Action>disconnect</Action></Request>
+4/14/2012 10:28:30 PM	: Response: 
+4/14/2012 10:28:30 PM	:Session 7 disconnected.
+4/15/2012 4:57:24 PM	Start System Initialization
+4/15/2012 4:57:30 PM	Server Started.
+4/15/2012 4:57:30 PM	Awaiting connection on port 5000.
+4/15/2012 4:58:09 PM	Accepted a Connection from: 127.0.0.1:56101.
+4/15/2012 4:58:09 PM	:Client Session 1  Initialized from 127.0.0.1:56101.
+4/15/2012 4:58:09 PM	Awaiting connection on port 5000.
+4/15/2012 4:58:43 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>addtitle</Action><Title>Spiderman</Title><Status>E</Status></Request>
+4/15/2012 4:58:43 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/15/2012 4:58:43 PM	:Record Added!  New ID: 23
+4/15/2012 4:58:43 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><ID>23</ID></Response>
+4/15/2012 4:58:43 PM	: request: <Request><Action>disconnect</Action></Request>
+4/15/2012 4:58:43 PM	: Response: 
+4/15/2012 4:58:43 PM	:Session 1 disconnected.
+4/15/2012 6:15:28 PM	Accepted a Connection from: 127.0.0.1:62601.
+4/15/2012 6:15:28 PM	:Client Session 2  Initialized from 127.0.0.1:62601.
+4/15/2012 6:15:28 PM	Awaiting connection on port 5000.
+4/15/2012 6:16:13 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>updateactor1</Action><ID>23</ID><First>First</First><Last>Last</Last></Request>
+4/15/2012 6:16:13 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/15/2012 6:16:15 PM	:Record updated! DVD ID 23updated
+4/15/2012 6:16:15 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><Message> DVD ID 23 Actor 1 updated </Message></Response>
+4/15/2012 6:16:15 PM	: request: <Request><Action>disconnect</Action></Request>
+4/15/2012 6:16:15 PM	: Response: 
+4/15/2012 6:16:15 PM	:Session 2 disconnected.
+4/15/2012 7:41:25 PM	Start System Initialization
+4/15/2012 7:41:25 PM	Server Started.
+4/15/2012 7:41:25 PM	Awaiting connection on port 5000.
+4/15/2012 7:42:07 PM	Accepted a Connection from: 127.0.0.1:53239.
+4/15/2012 7:42:07 PM	:Client Session 1  Initialized from 127.0.0.1:53239.
+4/15/2012 7:42:07 PM	Awaiting connection on port 5000.
+4/15/2012 7:42:13 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchtitle</Action><Title>underworld</Title></Request>
+4/15/2012 7:42:13 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/15/2012 7:42:14 PM	: titles found! 
+4/15/2012 7:42:14 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><ID>1</ID><Title>Underworld</Title></DVD><DVD><ID>2</ID><Title>Underworld 2:Evolution</Title></DVD><DVD><ID>3</ID><Title>Underworld 3:Rise of the Lycans</Title></DVD><DVD><ID>4</ID><Title>Underworld 4:Awakening</Title></DVD></DVDS></Response>
+4/15/2012 7:42:14 PM	: request: <Request><Action>disconnect</Action></Request>
+4/15/2012 7:42:14 PM	: Response: 
+4/15/2012 7:42:14 PM	:Session 1 disconnected.
+4/15/2012 7:48:47 PM	Accepted a Connection from: 127.0.0.1:53781.
+4/15/2012 7:48:47 PM	:Client Session 2  Initialized from 127.0.0.1:53781.
+4/15/2012 7:48:47 PM	Awaiting connection on port 5000.
+4/15/2012 7:50:05 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchactor1</Action><Last>Beckinsale</Last></Request>
+4/15/2012 7:50:05 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/15/2012 7:50:05 PM	: last names found! 
+4/15/2012 7:50:05 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><First>Kate</First><Last>Beckinsale</Last><Title>Underworld</Title></DVD><DVD><First>Kate</First><Last>Beckinsale</Last><Title>Underworld 2:Evolution</Title></DVD><DVD><First>Kate</First><Last>Beckinsale</Last><Title>Underworld 4:Awakening</Title></DVD></DVDS></Response>
+4/15/2012 7:50:05 PM	: request: <Request><Action>disconnect</Action></Request>
+4/15/2012 7:50:05 PM	: Response: 
+4/15/2012 7:50:05 PM	:Session 2 disconnected.
+4/15/2012 8:15:03 PM	Accepted a Connection from: 127.0.0.1:55792.
+4/15/2012 8:15:03 PM	:Client Session 3  Initialized from 127.0.0.1:55792.
+4/15/2012 8:15:03 PM	Awaiting connection on port 5000.
+4/15/2012 8:15:23 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchactor2</Action><Last2>seedman</Last2></Request>
+4/15/2012 8:15:23 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/15/2012 8:15:23 PM	: last names found! 
+4/15/2012 8:15:23 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS /></Response>
+4/15/2012 8:15:23 PM	: request: <Request><Action>disconnect</Action></Request>
+4/15/2012 8:15:23 PM	: Response: 
+4/15/2012 8:15:23 PM	:Session 3 disconnected.
+4/15/2012 8:15:33 PM	Accepted a Connection from: 127.0.0.1:55828.
+4/15/2012 8:15:33 PM	:Client Session 4  Initialized from 127.0.0.1:55828.
+4/15/2012 8:15:33 PM	Awaiting connection on port 5000.
+4/15/2012 8:16:10 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchactor2</Action><Last2>spe</Last2></Request>
+4/15/2012 8:16:10 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/15/2012 8:16:10 PM	: last names found! 
+4/15/2012 8:16:10 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><First2>Scott</First2><Last2>Speedman</Last2><Title>Underworld</Title></DVD><DVD><First2>Scott</First2><Last2>Speedman</Last2><Title>Underworld 2:Evolution</Title></DVD></DVDS></Response>
+4/15/2012 8:16:10 PM	: request: <Request><Action>disconnect</Action></Request>
+4/15/2012 8:16:10 PM	: Response: 
+4/15/2012 8:16:10 PM	:Session 4 disconnected.
+4/15/2012 8:24:02 PM	Accepted a Connection from: 127.0.0.1:56454.
+4/15/2012 8:24:02 PM	:Client Session 5  Initialized from 127.0.0.1:56454.
+4/15/2012 8:24:02 PM	Awaiting connection on port 5000.
+4/15/2012 8:24:12 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchcompany</Action><Company>screen gems</Company></Request>
+4/15/2012 8:24:12 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/15/2012 8:24:12 PM	: companies found! 
+4/15/2012 8:24:12 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Company>Screen Gems</Company><Title>Underworld</Title></DVD><DVD><Company>Screen Gems</Company><Title>Underworld 2:Evolution</Title></DVD><DVD><Company>Screen Gems</Company><Title>Underworld 3:Rise of the Lycans</Title></DVD><DVD><Company>Screen Gems</Company><Title>Underworld 4:Awakening</Title></DVD></DVDS></Response>
+4/15/2012 8:24:12 PM	: request: <Request><Action>disconnect</Action></Request>
+4/15/2012 8:24:12 PM	: Response: 
+4/15/2012 8:24:12 PM	:Session 5 disconnected.
+4/15/2012 8:33:04 PM	Accepted a Connection from: 127.0.0.1:57132.
+4/15/2012 8:33:04 PM	:Client Session 6  Initialized from 127.0.0.1:57132.
+4/15/2012 8:33:04 PM	Awaiting connection on port 5000.
+4/15/2012 8:33:09 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>searchgenre</Action><Genre>12</Genre></Request>
+4/15/2012 8:33:09 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/15/2012 8:33:09 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/15/2012 8:33:09 PM	: movie genres found! 
+4/15/2012 8:33:10 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><DVDS><DVD><Description>Fantasy</Description><Title>Underworld</Title></DVD><DVD><Description>Fantasy</Description><Title>Underworld 2:Evolution</Title></DVD><DVD><Description>Fantasy</Description><Title>Underworld 3:Rise of the Lycans</Title></DVD><DVD><Description>Fantasy</Description><Title>Underworld 4:Awakening</Title></DVD></DVDS></Response>
+4/15/2012 8:33:10 PM	: request: <Request><Action>disconnect</Action></Request>
+4/15/2012 8:33:10 PM	: Response: 
+4/15/2012 8:33:10 PM	:Session 6 disconnected.
+4/15/2012 9:06:32 PM	Accepted a Connection from: 127.0.0.1:59426.
+4/15/2012 9:06:32 PM	:Client Session 7  Initialized from 127.0.0.1:59426.
+4/15/2012 9:06:32 PM	Awaiting connection on port 5000.
+4/15/2012 9:06:43 PM	: request: <?xml version="1.0" encoding="utf-16"?><Request><Action>selectID</Action><ID>1</ID></Request>
+4/15/2012 9:06:54 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/15/2012 9:07:08 PM	:connection string Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\Data\DVDB_001_DVD_master.accdb
+4/15/2012 9:07:21 PM	:record found! 
+4/15/2012 9:07:23 PM	: Response: <?xml version="1.0" encoding="utf-16"?><Response><ErrorCode>0</ErrorCode><ID>1</ID><Title>Underworld</Title><First>Kate</First><Last>Beckinsale</Last><First2>Scott</First2><Last2>Speedman</Last2><Company>Screen Gems</Company><Genre>12</Genre><Description>Fantasy</Description><Runtime>121</Runtime><Type>D</Type><Status>E</Status></Response>
+4/15/2012 9:07:24 PM	: request: <Request><Action>disconnect</Action></Request>
+4/15/2012 9:07:26 PM	: Response: 
+4/15/2012 9:07:26 PM	:Session 7 disconnected.

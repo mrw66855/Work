@@ -1,0 +1,39 @@
+F:\usb for sp\programming project\C sharp project\DVD client\DVD client\obj\x86\Debug\DVD client.exe
+F:\usb for sp\programming project\C sharp project\DVD client\DVD client\obj\x86\Debug\DVD client.pdb
+M:\usb for sp\programming project\C sharp project\DVD client\DVD client\obj\x86\Debug\DVD client.exe
+M:\usb for sp\programming project\C sharp project\DVD client\DVD client\obj\x86\Debug\DVD client.pdb
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\DVD client\DVD client\bin\Debug\DVD client.exe
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\DVD client\DVD client\bin\Debug\DVD client.pdb
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\DVD client\DVD client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\DVD client\DVD client\obj\x86\Debug\DVD client.exe
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\DVD client\DVD client\obj\x86\Debug\DVD client.pdb
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project\DVD client\DVD client\obj\x86\Debug\DVD client.exe
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project\DVD client\DVD client\obj\x86\Debug\DVD client.pdb
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project\DVD client\DVD client\bin\Debug\DVD client.exe
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project\DVD client\DVD client\bin\Debug\DVD client.pdb
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project\DVD client\DVD client\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\C #\final project\final project\DVD client\DVD client\obj\x86\Debug\DVD client.exe
+J:\C #\final project\final project\DVD client\DVD client\obj\x86\Debug\DVD client.pdb
+N:\C #\final project\final project\DVD client\DVD client\obj\x86\Debug\DVD client.exe
+N:\C #\final project\final project\DVD client\DVD client\obj\x86\Debug\DVD client.pdb
+N:\C #\final project\final project\DVD client\DVD client\bin\Debug\DVD client.exe
+N:\C #\final project\final project\DVD client\DVD client\bin\Debug\DVD client.pdb
+N:\C #\final project\final project\DVD client\DVD client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD client\DVD client\obj\x86\Debug\DVD client.exe
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD client\DVD client\obj\x86\Debug\DVD client.pdb
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD client\DVD client\bin\Debug\DVD client.exe
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD client\DVD client\bin\Debug\DVD client.pdb
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD client\DVD client\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\final project\final project files\DVD client\DVD client\obj\x86\Debug\DVD client.exe
+H:\final project\final project files\DVD client\DVD client\obj\x86\Debug\DVD client.pdb
+H:\final project\final project files\DVD client\DVD client\bin\Debug\DVD client.exe
+H:\final project\final project files\DVD client\DVD client\bin\Debug\DVD client.pdb
+H:\final project\final project files\DVD client\DVD client\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\final project\final project files\DVD client\DVD client\obj\x86\Debug\DVD client.exe
+N:\final project\final project files\DVD client\DVD client\obj\x86\Debug\DVD client.pdb
+N:\final project\final project files\DVD client\DVD client\bin\Debug\DVD client.exe
+N:\final project\final project files\DVD client\DVD client\bin\Debug\DVD client.pdb
+N:\final project\final project files\DVD client\DVD client\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\final project\final project files\DVD client\DVD client\obj\x86\Debug\DVD client.exe
+F:\final project\final project files\DVD client\DVD client\obj\x86\Debug\DVD client.pdb
+F:\final project\final project files\DVD client\DVD client\obj\x86\Debug\ResolveAssemblyReference.cache

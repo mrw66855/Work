@@ -1,0 +1,28 @@
+M:\usb for sp\programming project\C sharp project\DVD server\DVD server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\DVD server\DVD server\bin\Debug\DVD server.exe
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\DVD server\DVD server\bin\Debug\DVD server.pdb
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\DVD server\DVD server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\DVD server\DVD server\obj\x86\Debug\DVD server.exe
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\DVD server\DVD server\obj\x86\Debug\DVD server.pdb
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project\DVD server\DVD server\bin\Debug\DVD server.exe
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project\DVD server\DVD server\bin\Debug\DVD server.pdb
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project\DVD server\DVD server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project\DVD server\DVD server\obj\x86\Debug\DVD server.exe
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project\DVD server\DVD server\obj\x86\Debug\DVD server.pdb
+J:\C #\final project\final project\DVD server\DVD server\obj\x86\Debug\DVD server.exe
+J:\C #\final project\final project\DVD server\DVD server\obj\x86\Debug\DVD server.pdb
+N:\C #\final project\final project\DVD server\DVD server\obj\x86\Debug\DVD server.exe
+N:\C #\final project\final project\DVD server\DVD server\obj\x86\Debug\DVD server.pdb
+N:\C #\final project\final project\DVD server\DVD server\bin\Debug\DVD server.exe
+N:\C #\final project\final project\DVD server\DVD server\bin\Debug\DVD server.pdb
+N:\C #\final project\final project\DVD server\DVD server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\obj\x86\Debug\DVD server.exe
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\obj\x86\Debug\DVD server.pdb
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\DVD server.exe
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\bin\Debug\DVD server.pdb
+C:\Users\matthew weaver\Documents\classes\C #\Visual Studio 2010\Projects\final project\final project files\DVD server\DVD server\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\final project\final project files\DVD server\DVD server\bin\Debug\DVD server.exe
+N:\final project\final project files\DVD server\DVD server\bin\Debug\DVD server.pdb
+N:\final project\final project files\DVD server\DVD server\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\final project\final project files\DVD server\DVD server\obj\x86\Debug\DVD server.exe
+N:\final project\final project files\DVD server\DVD server\obj\x86\Debug\DVD server.pdb
